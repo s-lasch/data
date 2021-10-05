@@ -129,7 +129,7 @@ UID,Name,Age,Gender,Race,Date,City,State,Manner_of_death,Armed,Mental_illness,Fl
 12396,Raymond Gee,22,Male,Asian,11/25/2008,San Mateo,CA,Shot,,TRUE,FALSE
 12426,Ma Phompong,28,Male,Asian,8/21/2008,Fresno,CA,Shot,,FALSE,FALSE
 12500,Gurmit Singh,33,Male,Asian,2/8/2008,Gilroy,CA,Shot,,TRUE,FALSE
-12543,Giat Jackâ€ù Van Truong,35,Male,Asian,12/8/2009,Sacramento,CA,Shot,,TRUE,FALSE
+12543,Giat Jack Van Truong,35,Male,Asian,12/8/2009,Sacramento,CA,Shot,,TRUE,FALSE
 12570,Xiyu Li,37,Male,Asian,9/5/2009,San Francisco,CA,Shot,,TRUE,FALSE
 12591,Ying He,35,Female,Asian,7/6/2009,San Jose,CA,Shot,,FALSE,FALSE
 12615,Daniel Pham,27,Male,Asian,5/10/2009,San Jose,CA,Shot,Knife,TRUE,FALSE
@@ -1052,7 +1052,7 @@ UID,Name,Age,Gender,Race,Date,City,State,Manner_of_death,Armed,Mental_illness,Fl
 6575,Duane Browne,26,Male,Black,1/12/2012,Brooklyn,NY,Shot,Knife,FALSE,FALSE
 6576,Donald Johnson,21,Male,Black,1/12/2012,New Orleans,LA,Shot,,TRUE,FALSE
 6590,Ja'Ray Jamal Coster,19,Male,Black,1/17/2012,Marrero,LA,Shot,,FALSE,FALSE
-6618,Oâ€™Patrick Fitzgerald Humphrey,33,Male,Black,1/31/2012,Headland,AL,Shot,,TRUE,FALSE
+6618,Patrick Fitzgerald Humphrey,33,Male,Black,1/31/2012,Headland,AL,Shot,,TRUE,FALSE
 6623,Stephon Watts,15,Male,Black,2/1/2012,Calumet City,IL,Shot,Knife,TRUE,FALSE
 6624,Ramarley Graham,18,Male,Black,2/2/2012,Bronx,NY,Shot,Gun,FALSE,FALSE
 6628,Lawrence Wallace Jr.,24,Male,Black,2/3/2012,Mobile,AL,Shot,Gun,FALSE,FALSE
@@ -1459,7 +1459,7 @@ UID,Name,Age,Gender,Race,Date,City,State,Manner_of_death,Armed,Mental_illness,Fl
 8571,Carnell Lanair Williams,23,Male,Black,11/25/2013,Bridgeport,CT,Shot,Gun,FALSE,FALSE
 8594,Jonathan D. Rodgers,22,Male,Black,12/2/2013,Columbus,OH,Shot,Gun,FALSE,FALSE
 8597,Darius Jamal Murphy,19,Male,Black,12/3/2013,Washington,DC,Shot,Gun,FALSE,FALSE
-8606,Dâ€™Angelo Davis,23,Male,Black,12/7/2013,Tukwila,WA,Shot,Gun,FALSE,FALSE
+8606,Angelo Davis,23,Male,Black,12/7/2013,Tukwila,WA,Shot,Gun,FALSE,FALSE
 8614,Jared Brown-Garnham,21,Male,Black,12/8/2013,Moon,PA,Shot,Knife,FALSE,FALSE
 8628,Kenneth R. Herring,50,Male,Black,12/12/2013,Columbus,OH,Shot,,FALSE,FALSE
 8648,Cimarron Lamar Lamb,33,Male,Black,12/19/2013,Phenix City,AL,Shot,,FALSE,FALSE
@@ -1493,7 +1493,7 @@ UID,Name,Age,Gender,Race,Date,City,State,Manner_of_death,Armed,Mental_illness,Fl
 8801,Ernest Satterwhite,68,Male,Black,2/10/2014,North Augusta,SC,Shot,,FALSE,FALSE
 8808,Bernard Lofton,22,Male,Black,2/12/2014,Baltimore,MD,Shot,Gun,FALSE,FALSE
 8810,Stephon Averyhart,27,Male,Black,2/12/2014,St. Louis,MO,Shot,Gun,FALSE,FALSE
-8815,Dâ€™Andre Berghardt Jr.,20,Male,Black,2/14/2014,Las Vegas,NV,Shot,,TRUE,FALSE
+8815,Andre Berghardt Jr.,20,Male,Black,2/14/2014,Las Vegas,NV,Shot,,TRUE,FALSE
 8822,Yvette Smith,47,Female,Black,2/16/2014,Bastrop,TX,Shot,Gun,FALSE,FALSE
 8824,Keith Atkinson,31,Male,Black,2/16/2014,New Orleans,LA,Shot,Gun,FALSE,FALSE
 8828,Oscar Gaspar,17,Male,Black,2/17/2014,Houston,TX,Shot,Gun,FALSE,FALSE
@@ -1642,7 +1642,7 @@ UID,Name,Age,Gender,Race,Date,City,State,Manner_of_death,Armed,Mental_illness,Fl
 9649,Javonta Darden,20,Male,Black,9/30/2014,Athens,GA,Shot,,FALSE,FALSE
 9655,Tracy Ann Oglesby Wade,39,Female,Black,10/1/2014,Louisville,KY,Shot,Gun,FALSE,FALSE
 9668,Aljarreau Cross,29,Male,Black,10/7/2014,North Las Vegas,NV,Shot,Gun,FALSE,FALSE
-9669,Oâ€™Shaine Evans,26,Male,Black,10/7/2014,San Francisco,CA,Shot,Gun,FALSE,FALSE
+9669,Shaine Evans,26,Male,Black,10/7/2014,San Francisco,CA,Shot,Gun,FALSE,FALSE
 9672,VonDerrit D. Myers Jr.,18,Male,Black,10/8/2014,St. Louis,MO,Shot,,FALSE,FALSE
 9677,Ahaviel T. Whitfield,39,Male,Black,10/9/2014,Decatur,GA,Shot,Gun,FALSE,FALSE
 9678,Qusean Whitten,18,Male,Black,10/10/2014,Columbus,OH,Shot,,FALSE,FALSE
@@ -1775,7 +1775,7 @@ UID,Name,Age,Gender,Race,Date,City,State,Manner_of_death,Armed,Mental_illness,Fl
 10403,Jeffery O. Adkins,53,Male,Black,4/29/2015,Emporia,VA,Shot,Gun,TRUE,FALSE
 10409,Alexia Christian,25,Female,Black,4/30/2015,Atlanta,GA,Shot,,FALSE,FALSE
 10416,Elton Simpson,30,Male,Black,5/3/2015,Garland,TX,Shot,,FALSE,FALSE
-10423,Brendon â€œDizzleâ€ù Glenn,29,Male,Black,5/5/2015,Venice,CA,Shot,,FALSE,FALSE
+10423,Brendon Glenn,29,Male,Black,5/5/2015,Venice,CA,Shot,,FALSE,FALSE
 10428,Nephi Arriguin,21,Male,Black,5/7/2015,Cerritos,CA,Shot,,FALSE,FALSE
 10434,Sam Matthew Holmes,31,Male,Black,5/8/2015,Fridley,MN,Shot,,TRUE,FALSE
 10435,Dedrick Marshall,48,Male,Black,5/8/2015,Harvey,LA,Shot,,FALSE,FALSE
@@ -1864,7 +1864,7 @@ UID,Name,Age,Gender,Race,Date,City,State,Manner_of_death,Armed,Mental_illness,Fl
 10960,Dante Osborne,32,Male,Black,9/22/2015,Haywood,CA,Shot,,FALSE,FALSE
 10962,Robert Berger,48,Male,Black,9/23/2015,Salt Lake City,UT,Shot,,FALSE,FALSE
 10964,Keith McLeod,19,Male,Black,9/23/2015,Reisterstown,MD,Shot,,FALSE,FALSE
-10966,Jeremy â€œBamâ€ù McDole,28,Male,Black,9/23/2015,Wilmington,DE,Shot,,FALSE,FALSE
+10966,Jeremy McDole,28,Male,Black,9/23/2015,Wilmington,DE,Shot,,FALSE,FALSE
 10969,Ernesto Medina Lopez,42,Male,Black,9/24/2015,Miami,FL,Shot,,TRUE,FALSE
 10973,James Anderson,34,Male,Black,9/25/2015,Chicago,IL,Shot,,FALSE,FALSE
 10976,Anthony McKinney,46,Male,Black,9/26/2015,Baton Rouge,LA,Shot,,FALSE,FALSE
@@ -2623,7 +2623,7 @@ UID,Name,Age,Gender,Race,Date,City,State,Manner_of_death,Armed,Mental_illness,Fl
 6173,La-Reko Williams,21,Male,Black,7/20/2011,Charlotte,NC,Tasered,,FALSE,FALSE
 6211,Everette Howard,18,Male,Black,8/7/2011,Cincinnati,OH,Tasered,Unarmed,FALSE,FALSE
 6334,Marlon J. Grant,37,Male,Black,9/26/2011,Natchitoches,LA,Tasered,,FALSE,FALSE
-6431,Darrin â€œDagwoodâ€ù Hanna,45,Male,Black,11/6/2011,Chicago,IL,Tasered,,FALSE,FALSE
+6431,Darrin Hanna,45,Male,Black,11/6/2011,Chicago,IL,Tasered,,FALSE,FALSE
 6463,Roger Anthony,61,Male,Black,11/22/2011,Scotland Neck,NC,Tasered,,TRUE,FALSE
 6527,Wayne Michael Williams,27,Male,Black,12/22/2011,Houma,LA,Tasered,Gun,FALSE,FALSE
 6656,Charmin Bennett,30,Male,Black,2/16/2012,Donaldsonville,LA,Tasered,,FALSE,FALSE
@@ -2760,9 +2760,9 @@ UID,Name,Age,Gender,Race,Date,City,State,Manner_of_death,Armed,Mental_illness,Fl
 493,Jose Valencia Mendoza,21,Male,Hispanic,2/18/2001,Long Beach,CA,Shot,Gun,FALSE,FALSE
 494,Rosa Viera,43,Female,Hispanic,2/18/2001,Los Angeles,CA,Shot,,FALSE,FALSE
 515,Ricardo Gonzalez,17,Male,Hispanic,2/28/2001,Los Angeles,CA,Shot,Gun,FALSE,FALSE
-518,Roberto ChÃ¡vez-ResÃ©ndiz,22,Male,Hispanic,3/5/2001,Sells,AZ,Shot,Gun,FALSE,FALSE
+518,Roberto Chavez-Resindiz,22,Male,Hispanic,3/5/2001,Sells,AZ,Shot,Gun,FALSE,FALSE
 526,Alfonso Caudillo-Celaya,20,Male,Hispanic,3/11/2001,Phoenix,AZ,Shot,Gun,FALSE,FALSE
-545,JosÃ© Santos Victor MejÃ_a Poot,29,Male,Hispanic,4/1/2001,Portland,OR,Shot,,TRUE,FALSE
+545,Jose Santos Victor Mejla Poot,29,Male,Hispanic,4/1/2001,Portland,OR,Shot,,TRUE,FALSE
 549,Ricardo Esparza,29,Male,Hispanic,4/3/2001,Bellflower,CA,Shot,,TRUE,FALSE
 563,Rene Lopez Vizzuett,29,Male,Hispanic,4/12/2001,San Diego,CA,Shot,Gun,FALSE,FALSE
 580,Antonio Daniel,27,Male,Hispanic,4/20/2001,Long Beach,CA,Shot,,FALSE,FALSE
@@ -3074,7 +3074,7 @@ UID,Name,Age,Gender,Race,Date,City,State,Manner_of_death,Armed,Mental_illness,Fl
 3524,Raul Marquez Jr.,43,Male,Hispanic,12/25/2006,Tucson,AZ,Shot,Gun,FALSE,FALSE
 3533,Ivan Guajardo Ariza,37,Male,Hispanic,1/1/2007,Las Vegas,NV,Shot,Knife,TRUE,FALSE
 3542,Omar B. Esparza,21,Male,Hispanic,1/7/2007,Houston,TX,Shot,Gun,TRUE,FALSE
-3549,Francisco JaviÃ©r DomÃ_nguez-Rivera,22,Male,Hispanic,1/12/2007,Brisbee,AZ,Shot,,FALSE,FALSE
+3549,Francisco Javier Dominguez-Rivera,22,Male,Hispanic,1/12/2007,Brisbee,AZ,Shot,,FALSE,FALSE
 3575,Addiel Meza,21,Male,Hispanic,2/3/2007,Oakland,CA,Shot,Gun,FALSE,FALSE
 3579,Jose Carlos Perez-Hernandez,36,Male,Hispanic,2/8/2007,South Gate,CA,Shot,Gun,FALSE,FALSE
 3580,Ivan Alonzo,29,Male,Hispanic,2/9/2007,Las Vegas,NV,Shot,Gun,FALSE,FALSE
@@ -3496,7 +3496,7 @@ UID,Name,Age,Gender,Race,Date,City,State,Manner_of_death,Armed,Mental_illness,Fl
 7485,Angel Miguel Lopez,27,Male,Hispanic,1/17/2013,San Diego,CA,Shot,,FALSE,FALSE
 7494,Alfredo Emilio Villarreal,18,Male,Hispanic,1/21/2013,Elkhorn,WI,Shot,,FALSE,FALSE
 7507,Douglas Ernesto Combs-Gonzalez,16,Male,Hispanic,1/25/2013,Vancouver,WA,Shot,Gun,FALSE,FALSE
-7522,Josue Jimenez,33,Male,Hispanic,1/30/2013,Â_Fillmore,CA,Shot,Gun,FALSE,FALSE
+7522,Josue Jimenez,33,Male,Hispanic,1/30/2013,Fillmore,CA,Shot,Gun,FALSE,FALSE
 7523,Ronette Morales,30,Female,Hispanic,1/30/2013,Denver,CO,Shot,,FALSE,FALSE
 7535,Armando Santibanez,22,Male,Hispanic,2/8/2013,Visalia,CA,Shot,,FALSE,FALSE
 7536,Roberto Antonio Torres,33,Male,Hispanic,2/8/2013,Las Vegas,NV,Shot,Gun,FALSE,FALSE
@@ -3517,7 +3517,7 @@ UID,Name,Age,Gender,Race,Date,City,State,Manner_of_death,Armed,Mental_illness,Fl
 7655,Sonia Angelita Castaneda-Montoya,28,Female,Hispanic,3/16/2013,Pomona,CA,Shot,Gun,FALSE,FALSE
 7661,Elias Mejia,27,Male,Hispanic,3/18/2013,San Jose,CA,Shot,,FALSE,FALSE
 7662,Ronald Manuel Ontiveros,37,Male,Hispanic,3/19/2013,Salt Lake City,UT,Shot,,FALSE,FALSE
-7663,David â€œDizzyâ€ù Martinez,39,Male,Hispanic,3/19/2013,Los Angeles,CA,Shot,Gun,FALSE,FALSE
+7663,David Martinez,39,Male,Hispanic,3/19/2013,Los Angeles,CA,Shot,Gun,FALSE,FALSE
 7695,Taurino Martinez Guevara,46,Male,Hispanic,3/30/2013,Delano,CA,Shot,,FALSE,FALSE
 7727,Edgar Villareal,25,Male,Hispanic,4/9/2013,Lynwood,CA,Shot,,FALSE,FALSE
 7742,Jesus Antonio Torres,29,Male,Hispanic,4/13/2013,Phoenix,AZ,Shot,Gun,FALSE,FALSE
@@ -3750,7 +3750,7 @@ UID,Name,Age,Gender,Race,Date,City,State,Manner_of_death,Armed,Mental_illness,Fl
 9711,Cesar Javier Cepeda,27,Male,Hispanic,10/22/2014,Brownsville,TX,Shot,,FALSE,FALSE
 9714,Luis Roman,25,Male,Hispanic,10/23/2014,Dartmouth,MA,Shot,Gun,FALSE,FALSE
 9715,Jeremy Bustos,43,Male,Hispanic,10/23/2014,Avondale,AZ,Shot,,TRUE,FALSE
-9722,Edgar Amaro LÃ_pez,23,Male,Hispanic,10/24/2014,Tucson,AZ,Shot,,FALSE,FALSE
+9722,Edgar Amaro Lopez,23,Male,Hispanic,10/24/2014,Tucson,AZ,Shot,,FALSE,FALSE
 9723,Rogelio Cisneros-Chavez,22,Male,Hispanic,10/24/2014,EspaÃ±ola,NM,Shot,Gun,FALSE,FALSE
 9731,Luis Carlos Quintana,39,Male,Hispanic,10/25/2014,Magna,UT,Shot,Knife,TRUE,FALSE
 9736,Oscar Ramirez Jr.,28,Male,Hispanic,10/27/2014,Paramount,CA,Shot,,FALSE,FALSE
@@ -3821,7 +3821,7 @@ UID,Name,Age,Gender,Race,Date,City,State,Manner_of_death,Armed,Mental_illness,Fl
 10356,Rodolfo Velazquez,47,Male,Hispanic,4/16/2015,Shafter,CA,Shot,Knife,FALSE,FALSE
 10359,Elias Cavazos,29,Male,Hispanic,4/17/2015,Hemet,CA,Shot,,FALSE,FALSE
 10361,Erik Tellez,43,Male,Hispanic,4/18/2015,Phoenix,AZ,Shot,Gun,TRUE,FALSE
-10366,Santos â€œCuateâ€ù Cortez Hernandez,24,Male,Hispanic,4/20/2015,Mission,TX,Shot,,FALSE,FALSE
+10366,Santos Cuate Cortez Hernandez,24,Male,Hispanic,4/20/2015,Mission,TX,Shot,,FALSE,FALSE
 10370,Luis Molina Martinez,35,Male,Hispanic,4/21/2015,Los Angeles,CA,Shot,Knife,TRUE,FALSE
 10376,Carlos Saavedra Ramirez,51,Male,Hispanic,4/22/2015,Bisbee,AZ,Shot,Knife,TRUE,FALSE
 10378,Reginald Duane McGregor,31,Male,Hispanic,4/22/2015,Fort Worth,TX,Shot,,FALSE,FALSE
@@ -4025,7 +4025,7 @@ UID,Name,Age,Gender,Race,Date,City,State,Manner_of_death,Armed,Mental_illness,Fl
 12248,Cesar Mendez,20,Male,Hispanic,4/2/2007,Ukiah,CA,Shot,,FALSE,FALSE
 12249,Ramiro Gamez Acosta,20,Male,Hispanic,3/29/2007,Calexico,CA,Shot,,FALSE,FALSE
 12258,Joel Perales,22,Male,Hispanic,2/20/2007,Fresno,CA,Shot,,FALSE,FALSE
-12294,Jesus â€œChuyâ€ù Juarez,65,Male,Hispanic,4/1/2016,Lockhart,TX,Shot,,FALSE,FALSE
+12294,Jesus Juarez,65,Male,Hispanic,4/1/2016,Lockhart,TX,Shot,,FALSE,FALSE
 12306,David Valdez Banda,40,Male,Hispanic,12/2/2009,Caldwell,ID,Shot,Gun,FALSE,FALSE
 12308,Ricardo Caldera Ramos,31,Male,Hispanic,3/7/2009,Middleton,ID,Shot,,FALSE,FALSE
 12313,Rudolph Guy Andrade Jr.,19,Male,Hispanic,2/22/2008,Nampa,ID,Shot,,FALSE,FALSE
@@ -4591,7 +4591,7 @@ UID,Name,Age,Gender,Race,Date,City,State,Manner_of_death,Armed,Mental_illness,Fl
 9346,Ira James Arquette,42,Male,Native,7/11/2014,Wapato,WA,Shot,,FALSE,FALSE
 9476,Jordan Keith Willis,30,Male,Native,8/12/2014,Choctaw,MS,Shot,,FALSE,FALSE
 9539,John Rogers,61,Male,Native,8/27/2014,Bloomfield,NM,Shot,Gun,FALSE,FALSE
-9592,Richard â€œPedieâ€ù Perez III,24,Male,Native,9/14/2014,Richmond,CA,Shot,Gun,TRUE,FALSE
+9592,Richard Pedie Perez III,24,Male,Native,9/14/2014,Richmond,CA,Shot,Gun,TRUE,FALSE
 9782,Joy Ann Sherman,52,Female,Native,11/8/2014,Mitchell,SD,Shot,Gun,TRUE,FALSE
 9859,Myles Roughsurface,27,Male,Native,11/28/2014,Aztec,NM,Shot,Gun,FALSE,FALSE
 9933,Richard Fredrick Tis Mil Estrada,17,Male,Native,12/18/2014,Willow Creek,CA,Shot,Gun,FALSE,FALSE
@@ -4605,7 +4605,7 @@ UID,Name,Age,Gender,Race,Date,City,State,Manner_of_death,Armed,Mental_illness,Fl
 10405,Joshua Deysie,33,Male,Native,4/29/2015,Mesa,AZ,Shot,Gun,FALSE,FALSE
 10582,Joe Charboneau,31,Male,Native,6/16/2015,Fort Totten,ND,Shot,,FALSE,FALSE
 10685,Paul Castaway,35,Male,Native,7/12/2015,Denver,CO,Shot,Knife,TRUE,FALSE
-10909,Casimero â€œShaneâ€ù Carlos Casillas,45,Male,Native,9/7/2015,Fresno,CA,Shot,Gun,FALSE,FALSE
+10909,Casimero Carlos Casillas,45,Male,Native,9/7/2015,Fresno,CA,Shot,Gun,FALSE,FALSE
 10910,Tristan Vent,19,Male,Native,9/8/2015,Fairbanks,AK,Shot,,FALSE,FALSE
 10916,Vincent Purdue,33,Male,Native,9/9/2015,Fairbanks,AK,Shot,,FALSE,FALSE
 10967,Philip Jonathan Quinn,30,Male,Native,9/24/2015,St Paul,MN,Shot,,TRUE,FALSE
@@ -4652,7 +4652,7 @@ UID,Name,Age,Gender,Race,Date,City,State,Manner_of_death,Armed,Mental_illness,Fl
 6426,Kollin Kealii Elderts,23,Male,Other,11/5/2011,Honolulu,HI,Shot,,TRUE,FALSE
 6666,Frank Tanuvasa,20,Male,Other,2/23/2012,Palm Desert,CA,Shot,,FALSE,FALSE
 6897,Shane Tasi,26,Male,Other,6/9/2012,Anchorage,AK,Shot,,FALSE,FALSE
-8230,Mason Saio,21,Male,Other,8/16/2013,LÄ«huÊ»e,HI,Shot,Gun,FALSE,FALSE
+8230,Mason Saio,21,Male,Other,8/16/2013,Honolulu,HI,Shot,Gun,FALSE,FALSE
 8285,Michael Troy Swatosh,25,Male,Other,9/1/2013,Tulsa,OK,Shot,Unarmed,FALSE,FALSE
 9050,Siale Angilau,25,Male,Other,4/21/2014,Salt Lake City,UT,Shot,,FALSE,FALSE
 9283,James Moala Kofu,22,Male,Other,6/21/2014,Bernardino,CA,Shot,,FALSE,FALSE
@@ -4684,7 +4684,7 @@ UID,Name,Age,Gender,Race,Date,City,State,Manner_of_death,Armed,Mental_illness,Fl
 21,Mark David Hedges,31,Male,White,1/22/2000,Phoenix,AZ,Shot,,FALSE,FALSE
 28,Alan Thomas Howard,35,Male,White,1/31/2000,Long Beach,CA,Shot,,FALSE,FALSE
 30,Christopher Todd Frierson,22,Male,White,2/1/2000,Picayune,MS,Shot,Knife,TRUE,FALSE
-40,John Charles Oâ€™Banion,23,Male,White,2/5/2000,Las Vegas,NV,Shot,Gun,FALSE,FALSE
+40,John Charles Banion,23,Male,White,2/5/2000,Las Vegas,NV,Shot,Gun,FALSE,FALSE
 47,Louis Thomas Pass,50,Male,White,2/8/2000,Montrose,CA,Shot,,FALSE,FALSE
 53,Ralph Peter Gawor,43,Male,White,2/18/2000,Fresno,CA,Shot,,FALSE,FALSE
 55,Jennifer Elizabeth Lowe,27,Female,White,2/19/2000,Lake Forest,CA,Shot,,FALSE,FALSE
@@ -5119,7 +5119,7 @@ UID,Name,Age,Gender,Race,Date,City,State,Manner_of_death,Armed,Mental_illness,Fl
 3571,Jeane Kane,58,Female,White,1/30/2007,Staten Island,NY,Shot,,FALSE,FALSE
 3581,David Collopy,46,Male,White,2/9/2007,Las Vegas,NV,Shot,Gun,FALSE,FALSE
 3582,Michael Gene Meloy,37,Male,White,2/10/2007,Jacinto City,TX,Shot,Knife,FALSE,FALSE
-3589,Sulejman TaloviÄ‡,18,Male,White,2/12/2007,Salt Lake City,UT,Shot,,FALSE,FALSE
+3589,Sulejman Talovia,18,Male,White,2/12/2007,Salt Lake City,UT,Shot,,FALSE,FALSE
 3595,Corey Evan Carwile,33,Male,White,2/17/2007,Muscle Shoals,AL,Shot,,FALSE,FALSE
 3599,Matthew Scott Carey,24,Male,White,2/21/2007,Amarillo,TX,Shot,Toy weapon,FALSE,FALSE
 3603,Cherise Daniel Johnson,37,Female,White,2/22/2007,Carson City,NV,Shot,Gun,TRUE,FALSE
@@ -5572,7 +5572,7 @@ UID,Name,Age,Gender,Race,Date,City,State,Manner_of_death,Armed,Mental_illness,Fl
 5958,Sean Krummi,23,Male,White,4/11/2011,West Valley City,UT,Shot,Gun,FALSE,FALSE
 5964,Guy Ronald McDowell,34,Male,White,4/14/2011,Knoxville,TN,Shot,Gun,FALSE,FALSE
 5973,Anthony David Ourada,25,Male,White,4/17/2011,Seattle,WA,Shot,,FALSE,FALSE
-5977,David â€œBonesâ€ù Hebert,40,Male,White,4/18/2011,Cincinnati,OH,Shot,Knife,TRUE,FALSE
+5977,David Bones Hebert,40,Male,White,4/18/2011,Cincinnati,OH,Shot,Knife,TRUE,FALSE
 5983,Seth M. McCloskey,28,Male,White,4/22/2011,Tomah,WI,Shot,,FALSE,FALSE
 5986,Wesley Ray Davis,47,Male,White,4/23/2011,Venus,TX,Shot,,FALSE,FALSE
 5989,Mark Martin Everson,55,Male,White,4/24/2011,Foley,AL,Shot,,FALSE,FALSE
@@ -5801,7 +5801,7 @@ UID,Name,Age,Gender,Race,Date,City,State,Manner_of_death,Armed,Mental_illness,Fl
 6887,Alexzander Coan,23,Male,White,6/5/2012,Arlington,TX,Shot,,FALSE,FALSE
 6891,Monroe Curtis Smith,42,Male,White,6/8/2012,Henagar,AL,Shot,Gun,FALSE,FALSE
 6896,Michael Marino,26,Male,White,6/9/2012,Sellersville,PA,Shot,,TRUE,FALSE
-6901,Bennett Lee â€œBennyâ€ù McKay,49,Male,White,6/12/2012,Cumberland,VA,Shot,Gun,FALSE,FALSE
+6901,Bennett Lee McKay,49,Male,White,6/12/2012,Cumberland,VA,Shot,Gun,FALSE,FALSE
 6913,Joseph Dewey Overstreet,42,Male,White,6/15/2012,Ozark,AL,Shot,,FALSE,FALSE
 6918,Ronald Earl Chante,51,Male,White,6/17/2012,Phoenix,AZ,Shot,,FALSE,FALSE
 6919,Larry Wayne Robards,54,Male,White,6/17/2012,Temple,TX,Shot,Gun,FALSE,FALSE
@@ -6097,7 +6097,7 @@ UID,Name,Age,Gender,Race,Date,City,State,Manner_of_death,Armed,Mental_illness,Fl
 7939,Louis James Skelly,60,Male,White,6/3/2013,Red Feather Lakes,CO,Shot,Gun,TRUE,FALSE
 7945,Tyler Wilkins,16,Male,White,6/4/2013,Kansas City,MO,Shot,Gun,FALSE,FALSE
 7949,David Erwin Hartman,32,Male,White,6/5/2013,Highland Park,TX,Shot,,FALSE,FALSE
-7950,William â€œDannyâ€ù Mayes,37,Male,White,6/5/2013,Escondido,CA,Shot,Gun,FALSE,FALSE
+7950,William Mayes,37,Male,White,6/5/2013,Escondido,CA,Shot,Gun,FALSE,FALSE
 7954,John Settlemyer,67,Male,White,6/6/2013,Hickory,NC,Shot,Gun,FALSE,FALSE
 7955,Blake Compton,27,Male,White,6/6/2013,Bonham,TX,Shot,Gun,FALSE,FALSE
 7956,Layne Michael Campbell,40,Male,White,6/7/2013,Reno,NV,Shot,,FALSE,FALSE
@@ -6199,7 +6199,7 @@ UID,Name,Age,Gender,Race,Date,City,State,Manner_of_death,Armed,Mental_illness,Fl
 8252,Danny Cecil Jones,40,Male,White,8/22/2013,Spokane,WA,Shot,,FALSE,FALSE
 8258,Jonathan Tricarico,29,Male,White,8/23/2013,Phoenix,AZ,Shot,Gun,FALSE,FALSE
 8260,Ryan Carnan,29,Male,White,8/24/2013,Simi Valley,CA,Shot,,TRUE,FALSE
-8263,Eric Byron Johnston,35,Male,White,8/25/2013,Coeur dâ€™Alene,ID,Shot,Knife,FALSE,FALSE
+8263,Eric Byron Johnston,35,Male,White,8/25/2013,Coeur d'Alene,ID,Shot,Knife,FALSE,FALSE
 8274,John Geer,46,Male,White,8/29/2013,Springfield,VA,Shot,,FALSE,FALSE
 8276,William Edward Hall,34,Male,White,8/30/2013,Sisters,OR,Shot,,FALSE,FALSE
 8279,Mathew Charles Jackson,29,Male,White,8/31/2013,San Antonio,TX,Shot,Unarmed,FALSE,FALSE
@@ -6299,7 +6299,7 @@ UID,Name,Age,Gender,Race,Date,City,State,Manner_of_death,Armed,Mental_illness,Fl
 8583,Troy D. Harden,44,Male,White,11/28/2013,Nashville,IN,Shot,Gun,FALSE,FALSE
 8585,Leonid Grigoryevich Kalyuzhnyy,51,Male,White,11/29/2013,Seattle,WA,Shot,Gun,FALSE,FALSE
 8587,Jerry Paul Stovall III,22,Male,White,11/29/2013,Kyle,TX,Shot,,FALSE,FALSE
-8591,Joshua D. Ford,33,Male,White,12/1/2013,Bois Dâ€™Arc,MO,Shot,Unarmed,FALSE,FALSE
+8591,Joshua D. Ford,33,Male,White,12/1/2013,Bois Arc,MO,Shot,Unarmed,FALSE,FALSE
 8592,Anthony Bruno,26,Male,White,12/1/2013,Kansas City,MO,Shot,,TRUE,FALSE
 8595,David Greenwood,49,Male,White,12/2/2013,Etowah,TN,Shot,Gun,FALSE,FALSE
 8596,Steven Jon Vogel,38,Male,White,12/3/2013,Des Moines,IA,Shot,,FALSE,FALSE
@@ -6698,7 +6698,7 @@ UID,Name,Age,Gender,Race,Date,City,State,Manner_of_death,Armed,Mental_illness,Fl
 9854,Randall Dewayne Roden,41,Male,White,11/26/2014,Versailles,MO,Shot,,FALSE,FALSE
 9860,Mark Allan Bartlett,42,Male,White,11/28/2014,Jackson,MS,Shot,Gun,FALSE,FALSE
 9861,Larry Steven McQuilliams,49,Male,White,11/28/2014,Austin,TX,Shot,,FALSE,FALSE
-9865,Tabanico â€œTommyâ€ù Ysidro Pirtle,24,Male,White,11/30/2014,Elko,NV,Shot,,FALSE,FALSE
+9865,Tabanico Ysidro Pirtle,24,Male,White,11/30/2014,Elko,NV,Shot,,FALSE,FALSE
 9869,John Pepper,45,Male,White,12/1/2014,Anderson,SC,Shot,Gun,TRUE,FALSE
 9878,Raymond Keith Martinez,51,Male,White,12/4/2014,West Monroe,LA,Shot,,FALSE,FALSE
 9880,Karin S. Moller,55,Female,White,12/4/2014,South Berwick,ME,Shot,Gun,FALSE,FALSE
@@ -7101,7 +7101,7 @@ UID,Name,Age,Gender,Race,Date,City,State,Manner_of_death,Armed,Mental_illness,Fl
 11078,Floyd Cook,62,Male,White,10/30/2015,Burkesville,KY,Shot,Gun,FALSE,FALSE
 11081,Noah Harpham,33,Male,White,10/31/2015,Colorado Springs,CO,Shot,,FALSE,FALSE
 11083,Luverne Roy Christensen,49,Male,White,11/1/2015,Hutchinson,MN,Shot,,FALSE,FALSE
-11084,Killian Oâ€™Quinn,20,Male,White,11/1/2015,Eureka,CA,Shot,Gun,FALSE,FALSE
+11084,Killian Quinn,20,Male,White,11/1/2015,Eureka,CA,Shot,Gun,FALSE,FALSE
 11085,Jack Yantis,62,Male,White,11/1/2015,Council,ID,Shot,,FALSE,FALSE
 11087,Matthew Colligan,28,Male,White,11/2/2015,Klamath Falls,OR,Shot,,FALSE,FALSE
 11089,Jeremy Mardis,6,Male,White,11/3/2015,Marksville,LA,Shot,Unarmed,FALSE,FALSE
@@ -8690,7 +8690,7 @@ UID,Name,Age,Gender,Race,Date,City,State,Manner_of_death,Armed,Mental_illness,Fl
 401,Joshua T. Waterman,42,Male,,11/28/2000,Baltimore,MD,Shot,,FALSE,FALSE
 402,Luther Edwards,35,Male,,11/30/2000,Syracuse,NY,Shot,,FALSE,FALSE
 403,Robert Raymond Vegas Jr.,43,Male,,12/1/2000,Hayward,CA,Shot,,FALSE,FALSE
-407,William â€œBillyâ€ù Hull,55,Male,,12/8/2000,Modesto,CA,Shot,Gun,TRUE,FALSE
+407,William Hull,55,Male,,12/8/2000,Modesto,CA,Shot,Gun,TRUE,FALSE
 409,David Leonard Clairmont,32,Male,,12/9/2000,Ontario,CA,Shot,,FALSE,FALSE
 411,James Harold Brooks,46,Male,,12/14/2000,Chattanooga,TN,Shot,,FALSE,FALSE
 413,Brian Wichman,30,Male,,12/17/2000,La Habra,CA,Shot,Gun,TRUE,FALSE
@@ -10343,7 +10343,7 @@ UID,Name,Age,Gender,Race,Date,City,State,Manner_of_death,Armed,Mental_illness,Fl
 5245,Alberta Ray Brooks,40,Male,,3/5/2010,Shreveport,LA,Shot,Gun,FALSE,FALSE
 5246,Lloyd Long,33,Male,,3/6/2010,Columbus,OH,Shot,Gun,FALSE,FALSE
 5247,William Scott Hines,27,Male,,3/7/2010,Florence,AL,Shot,,FALSE,FALSE
-5248,George Dâ€™Amato Jr.,22,Male,,3/8/2010,Brooklyn,NY,Shot,Gun,FALSE,FALSE
+5248,George D'Amato Jr.,22,Male,,3/8/2010,Brooklyn,NY,Shot,Gun,FALSE,FALSE
 5255,Reginald Dewayne Wallace,40,Male,,3/12/2010,Nashville,TN,Shot,,FALSE,FALSE
 5256,Aaron Lorenzo Dorsey,25,Male,,3/13/2010,Durham,NC,Shot,Gun,FALSE,FALSE
 5258,Gerald Black,51,Male,,3/14/2010,Dallas,TX,Shot,Gun,FALSE,FALSE
@@ -10670,7 +10670,7 @@ UID,Name,Age,Gender,Race,Date,City,State,Manner_of_death,Armed,Mental_illness,Fl
 6412,Gregory I. Martinez,20,Male,,10/28/2011,Avondale,AZ,Shot,,FALSE,FALSE
 6430,Daryll Cooper,26,Male,,11/6/2011,Beloit,WI,Shot,Gun,FALSE,FALSE
 6434,Glen Edward Moore,65,Male,,11/10/2011,Macon,GA,Shot,Gun,TRUE,FALSE
-6435,Eric N. â€œRicâ€ù Richard,46,Male,,11/10/2011,Rumford,ME,Shot,Gun,TRUE,FALSE
+6435,Eric N. Richard,46,Male,,11/10/2011,Rumford,ME,Shot,Gun,TRUE,FALSE
 6438,Jeffrey Thomas,23,Male,,11/12/2011,Camden,NJ,Shot,Gun,FALSE,FALSE
 6439,James Edward Coleman,22,Male,,11/12/2011,District Heights,MD,Shot,,FALSE,FALSE
 6440,Jamar F. Anderson,24,Male,,11/12/2011,Royal Palm Beach,FL,Shot,,FALSE,FALSE
@@ -11549,7 +11549,7 @@ UID,Name,Age,Gender,Race,Date,City,State,Manner_of_death,Armed,Mental_illness,Fl
 11120,Ramon Salazar,31,Male,,11/14/2015,Jurupa Valley,CA,Shot,,FALSE,FALSE
 11124,Richard Perkins,39,Male,,11/15/2015,Oakland,CA,Shot,,FALSE,FALSE
 11186,Juan Perez,38,Male,,12/5/2015,Indio,CA,Shot,,FALSE,FALSE
-11196,Sammy Monroe â€œCharlieâ€ù Echols Jr.,51,Male,,12/9/2015,Sportsmen Acres,OK,Shot,,TRUE,FALSE
+11196,Sammy Monroe Echols Jr.,51,Male,,12/9/2015,Sportsmen Acres,OK,Shot,,TRUE,FALSE
 11199,Name withheld by police,,Male,,12/10/2015,Hemet,CA,Shot,Gun,FALSE,FALSE
 11204,Efrain Villanueva,51,Male,,12/12/2015,Aurora,CO,Shot,,FALSE,FALSE
 11205,Roy Carreon,49,Male,,12/12/2015,San Bernardino,CA,Shot,Knife,TRUE,FALSE
@@ -12390,7 +12390,7 @@ UID,Name,Age,Gender,Race,Date,City,State,Manner_of_death,Armed,Mental_illness,Fl
 4327,Clarence Smith Jr.,29,Male,,7/8/2008,Windsor,NC,Tasered,,TRUE,FALSE
 4352,Richard Smith,42,Male,,7/23/2008,Dallas,TX,Tasered,Gun,TRUE,FALSE
 4419,Roney Wilson,46,Male,,9/11/2008,Plant City,FL,Tasered,,TRUE,FALSE
-4446,JosÃ© AnÃ_bal Amaro,45,Male,,10/1/2008,Orlando,FL,Tasered,,TRUE,FALSE
+4446,Jose Amaro,45,Male,,10/1/2008,Orlando,FL,Tasered,,TRUE,FALSE
 4469,Homer Taylor,39,Male,,10/18/2008,Chicago,IL,Tasered,Knife,FALSE,FALSE
 4492,Adren Maurice Turner,44,Male,,11/3/2008,Mexia,TX,Tasered,Gun,FALSE,FALSE
 4565,Mark S. Green,46,Male,,12/24/2008,Houston,TX,Tasered,Gun,FALSE,FALSE
