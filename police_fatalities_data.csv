@@ -4582,7 +4582,8 @@ UID,Name,Age,Gender,Race,Date,City,State,Manner_of_death,Armed,Mental_illness,Fl
 8109,Jessie Lee Rose,19,Male,Native,7/14/2013,Utica,NY,Shot,Gun,FALSE,FALSE
 8303,Eric Reed,25,Male,Native,9/6/2013,Window Rock,AZ,Shot,Gun,FALSE,FALSE
 8492,John Curtis JC Garreaux,24,Male,Native,10/30/2013,Fort Thompson,SD,Shot,,FALSE,FALSE
-8652,"""Mah-hi-vist Touching Cloud Goodblanket""",18,Male,Native,12/21/2013,Clinton,OK,Shot,,TRUE,FALSE
+8652,"""Mah-hi-vist Touching Cloud Goodblanket
+""",18,Male,Native,12/21/2013,Clinton,OK,Shot,,TRUE,FALSE
 8805,Robert Vuilla,23,Male,Native,2/10/2014,Tustin,CA,Shot,Knife,FALSE,FALSE
 8858,Clay Spotted Bear,19,Male,Native,3/3/2014,Browning,MT,Shot,Gun,FALSE,FALSE
 8940,Alfred Redwine,30,Male,Native,3/25/2014,Albuquerque,NM,Shot,Gun,FALSE,FALSE
