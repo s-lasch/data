@@ -316,7 +316,7 @@ id,age,gender,race,city,state,Year
 2617,36.0,Male,Asian,Brighton Township,MI,2017
 2570,24.0,Male,White,Portland,OR,2017
 2571,50.0,Female,White,St. Louis,MO,2017
-2573,37.11884334286622,Male,Hispanic,Arlington,TX,2017
+2573,37.0,Male,Hispanic,Arlington,TX,2017
 2575,30.0,Male,Asian,Billings,MT,2017
 2577,35.0,Male,Asian,Baldwin County,AL,2017
 2578,46.0,Male,Asian,Jupiter,FL,2017
@@ -346,7 +346,7 @@ id,age,gender,race,city,state,Year
 2603,59.0,Male,Asian,San Francisco,CA,2017
 2605,74.0,Male,Asian,Knoxville,TN,2017
 2604,24.0,Male,Asian,Canton,OH,2017
-2606,37.11884334286622,Male,Hispanic,Los Angeles,CA,2017
+2606,37.0,Male,Hispanic,Los Angeles,CA,2017
 2618,23.0,Male,Asian,Fairbanks,AK,2017
 2614,59.0,Male,Hispanic,San Rafael,NM,2017
 2615,33.0,Male,Asian,St. Louis,MO,2017
@@ -549,7 +549,7 @@ id,age,gender,race,city,state,Year
 2851,20.0,Male,White,Kent,WA,2017
 2853,33.0,Male,Asian,Dyer,IN,2017
 2856,49.0,Male,Asian,Los Angeles,CA,2017
-2855,37.11884334286622,Male,Hispanic,Channelview,TX,2017
+2855,37.0,Male,Hispanic,Channelview,TX,2017
 2857,31.0,Male,White,Philadelphia,PA,2017
 2858,35.0,Male,Hispanic,Frederickson,WA,2017
 2859,24.0,Male,Asian,Habersham,GA,2017
@@ -645,7 +645,7 @@ id,age,gender,race,city,state,Year
 2974,38.0,Male,Hispanic,Rockwall,TX,2017
 2971,26.0,Male,Hispanic,Oceanside,CA,2017
 2977,27.0,Male,Black,Huntington Beach,CA,2017
-2979,37.11884334286622,Male,Asian,Denver,CO,2017
+2979,37.0,Male,Asian,Denver,CO,2017
 2980,28.0,Male,Asian,Mesa,AZ,2017
 2981,40.0,Male,Asian,Hattiesburg,MS,2017
 2982,44.0,Male,Asian,Brooksville,FL,2017
@@ -686,7 +686,7 @@ id,age,gender,race,city,state,Year
 3017,52.0,Male,Hispanic,Miami,FL,2017
 3204,28.0,Male,Hispanic,Duarte,CA,2017
 3023,25.0,Male,Asian,Charleston,WV,2017
-3003,37.11884334286622,Male,Hispanic,Abingdon,VA,2017
+3003,37.0,Male,Hispanic,Abingdon,VA,2017
 3004,34.0,Female,Hispanic,Mesa,AZ,2017
 3006,58.0,Male,Hispanic,San Fernando,CA,2017
 3007,24.0,Male,White,Louisville,KY,2017
@@ -772,7 +772,7 @@ id,age,gender,race,city,state,Year
 3126,43.0,Male,White,Phoenix,AZ,2017
 3129,62.0,Male,Asian,Crystal,MN,2017
 3130,25.0,Male,White,Denver,CO,2017
-3131,37.11884334286622,Male,White,Hinds County,MS,2017
+3131,37.0,Male,White,Hinds County,MS,2017
 3133,50.0,Male,Asian,Albuquerque,NM,2017
 3122,19.0,Male,Asian,Dakota City,IA,2017
 3123,41.0,Male,White,Las Vegas,NV,2017
@@ -784,7 +784,7 @@ id,age,gender,race,city,state,Year
 3139,29.0,Male,Other,Oklahoma City,OK,2017
 3141,48.0,Male,Asian,Anchorage,AK,2017
 3142,22.0,Male,Hispanic,Van Nuys,CA,2017
-3143,37.11884334286622,Male,White,Jackson,MS,2017
+3143,37.0,Male,White,Jackson,MS,2017
 3144,59.0,Male,Asian,Elmira,NY,2017
 3207,68.0,Male,White,Cedar Lake,TX,2017
 3145,25.0,Male,Asian,Albuquerque,NM,2017
@@ -961,7 +961,7 @@ id,age,gender,race,city,state,Year
 3376,26.0,Male,Asian,Helena,MT,2018
 4248,38.0,Male,Asian,Louisville,KY,2018
 3377,27.0,Male,Asian,Charlotte,NC,2018
-3379,37.11884334286622,Male,White,Atlanta,GA,2018
+3379,37.0,Male,White,Atlanta,GA,2018
 3381,43.0,Male,Asian,Reading,MA,2018
 3383,49.0,Male,Asian,Gulfport,MS,2018
 3382,16.0,Male,White,Los Angeles,CA,2018
@@ -1013,7 +1013,7 @@ id,age,gender,race,city,state,Year
 4247,62.0,Male,Asian,Monongalia,WV,2018
 3442,25.0,Male,White,Oklahoma City,OK,2018
 3444,36.0,Male,Asian,Casper,WY,2018
-3445,37.11884334286622,Male,Hispanic,Los Angeles,CA,2018
+3445,37.0,Male,Hispanic,Los Angeles,CA,2018
 3437,27.0,Male,Asian,Crawford County,OH,2018
 3438,37.0,Male,Asian,Gilbert,AZ,2018
 3439,25.0,Male,Asian,Wamego,KS,2018
@@ -1033,7 +1033,7 @@ id,age,gender,race,city,state,Year
 3465,49.0,Male,White,Clarksville,TX,2018
 3455,38.0,Female,Hispanic,Pima County,AZ,2018
 3467,41.0,Male,White,Gulfport,MS,2018
-3462,37.11884334286622,Male,Hispanic,Abington Township,PA,2018
+3462,37.0,Male,Hispanic,Abington Township,PA,2018
 3452,28.0,Male,Asian,Sandpoint,ID,2018
 3461,33.0,Male,Asian,Carroll County,GA,2018
 3463,44.0,Male,Asian,Lakeland,FL,2018
@@ -1160,7 +1160,7 @@ id,age,gender,race,city,state,Year
 3607,61.0,Male,Asian,Pembroke,NY,2018
 3613,39.0,Male,Asian,Sparta,NC,2018
 3637,50.0,Male,Asian,Winn Parish,LA,2018
-3608,37.11884334286622,Male,White,Atlanta,GA,2018
+3608,37.0,Male,White,Atlanta,GA,2018
 3609,23.0,Male,Asian,Lake Elmo,MN,2018
 3610,39.0,Male,White,Helena-West Helena,AR,2018
 3611,45.0,Male,White,Washington,PA,2018
@@ -1277,7 +1277,7 @@ id,age,gender,race,city,state,Year
 3726,42.0,Male,White,Thomasville,NC,2018
 3727,21.0,Male,Hispanic,Dundee,FL,2018
 3731,55.0,Male,Other,Honolulu,HI,2018
-3732,37.11884334286622,Male,Asian,Torrance,CA,2018
+3732,37.0,Male,Asian,Torrance,CA,2018
 3730,43.0,Male,White,Chicago,IL,2018
 3728,32.0,Male,Hispanic,Chickasha,OK,2018
 3741,34.0,Male,Hispanic,Jurupa Valley,CA,2018
@@ -1310,7 +1310,7 @@ id,age,gender,race,city,state,Year
 3773,18.0,Male,White,Las Vegas,NV,2018
 3776,33.0,Male,White,Kansas City,MO,2018
 3778,28.0,Female,Asian,Kansas City,MO,2018
-3779,37.11884334286622,Male,Asian,Kansas City,MO,2018
+3779,37.0,Male,Asian,Kansas City,MO,2018
 3780,40.0,Male,Hispanic,Kirkland,WA,2018
 3846,40.0,Male,Asian,Nokomis,IL,2018
 3782,37.0,Male,White,Warwick,NY,2018
@@ -1384,7 +1384,7 @@ id,age,gender,race,city,state,Year
 3942,51.0,Male,Asian,Lenoir,NC,2018
 3866,30.0,Male,Hispanic,Albuquerque,NM,2018
 3869,33.0,Male,Asian,Fletcher,NC,2018
-3872,37.11884334286622,Male,Asian,Pattison,TX,2018
+3872,37.0,Male,Asian,Pattison,TX,2018
 3870,19.0,Male,Hispanic,Peoria,IL,2018
 3871,22.0,Male,Hispanic,Pico Rivera,CA,2018
 3877,37.0,Male,Hispanic,Fresno,CA,2018
@@ -1409,7 +1409,7 @@ id,age,gender,race,city,state,Year
 3887,44.0,Male,Asian,Seaside,OR,2018
 3885,54.0,Male,Asian,Spokane,WA,2018
 3893,29.0,Male,White,Memphis,TN,2018
-3894,37.11884334286622,Male,Hispanic,Amarillo,TX,2018
+3894,37.0,Male,Hispanic,Amarillo,TX,2018
 3959,56.0,Male,Asian,Lake Havasu,AZ,2018
 3960,64.0,Male,Asian,LaFollette,TN,2018
 3888,25.0,Male,White,Nashville,TN,2018
@@ -1424,7 +1424,7 @@ id,age,gender,race,city,state,Year
 3897,44.0,Male,Hispanic,South Whitehall Township,PA,2018
 3902,32.0,Male,Asian,Pineville,LA,2018
 3904,33.0,Male,Asian,Aberdeen,NC,2018
-3899,37.11884334286622,Male,Asian,Aurora,CO,2018
+3899,37.0,Male,Asian,Aurora,CO,2018
 3908,35.0,Male,White,Mississippi County,AR,2018
 3963,23.0,Male,Hispanic,Glendale,AZ,2018
 3907,27.0,Male,White,Oxon Hill,MD,2018
@@ -1463,14 +1463,14 @@ id,age,gender,race,city,state,Year
 3964,48.0,Male,White,Milwaukee,WI,2018
 3965,32.0,Male,White,Richton Park,IL,2018
 3966,31.0,Male,Asian,Creston,IA,2018
-3967,37.11884334286622,Male,Hispanic,Fresno,CA,2018
+3967,37.0,Male,Hispanic,Fresno,CA,2018
 3968,58.0,Male,Asian,Olustee,FL,2018
 3974,30.0,Male,White,Wasilla,AK,2018
 3977,15.0,Male,Hispanic,Ceres,CA,2018
 3984,30.0,Male,Asian,Los Angeles,CA,2018
 3978,21.0,Male,White,Bakersfield,CA,2018
 3981,33.0,Male,White,Atlanta,GA,2018
-3983,37.11884334286622,Male,Asian,Great Falls,MT,2018
+3983,37.0,Male,Asian,Great Falls,MT,2018
 3985,36.0,Male,White,Philadelphia,PA,2018
 3986,38.0,Male,Asian,Gonic,NH,2018
 3988,34.0,Female,Hispanic,Los Lunas,NM,2018
@@ -1505,7 +1505,7 @@ id,age,gender,race,city,state,Year
 4017,19.0,Male,White,Sacramento,CA,2018
 4023,28.0,Male,White,Pawtucket,RI,2018
 4024,63.0,Male,Asian,Citronelle,AL,2018
-4021,37.11884334286622,Male,White,Greenville,NC,2018
+4021,37.0,Male,White,Greenville,NC,2018
 4027,57.0,Male,Asian,Georgetown,KY,2018
 4026,32.0,Male,Hispanic,Buffalo,NY,2018
 4029,38.0,Male,White,Gary,IN,2018
@@ -1586,7 +1586,7 @@ id,age,gender,race,city,state,Year
 4122,35.0,Male,Asian,Paris,TX,2018
 4126,50.0,Male,Asian,Spanaway,WA,2018
 4132,34.0,Female,Asian,Darlington County,SC,2018
-4118,37.11884334286622,Male,White,Washington,NC,2018
+4118,37.0,Male,White,Washington,NC,2018
 4121,26.0,Male,Asian,Riverton,UT,2018
 4123,61.0,Male,Asian,Newport,TN,2018
 4127,37.0,Male,Native American,Tulsa,OK,2018
@@ -1625,11 +1625,11 @@ id,age,gender,race,city,state,Year
 4167,41.0,Male,White,Clarksdale,MS,2018
 4169,52.0,Male,Asian,Wagoner,OK,2018
 4172,26.0,Male,White,Robbins,IL,2018
-4232,37.11884334286622,Male,Hispanic,Hemet,CA,2018
+4232,37.0,Male,Hispanic,Hemet,CA,2018
 4177,39.0,Male,Asian,Mantoloking,NJ,2018
 4179,36.0,Male,Other,Catoosa,OK,2018
 4180,47.0,Male,White,Oklahoma City,OK,2018
-4181,37.11884334286622,Male,Hispanic,Alpine,CA,2018
+4181,37.0,Male,Hispanic,Alpine,CA,2018
 4224,25.0,Male,Hispanic,Chattanooga,TN,2018
 4175,24.0,Male,White,Phoenix,AZ,2018
 4196,38.0,Male,Hispanic,Pratt,KS,2018
@@ -1706,7 +1706,7 @@ id,age,gender,race,city,state,Year
 4307,35.0,Male,Asian,Oklahoma City,OK,2018
 4316,46.0,Male,White,Kansas City,KS,2018
 4321,47.0,Female,White,Darlington County,SC,2018
-4303,37.11884334286622,Male,Asian,Natomas,CA,2018
+4303,37.0,Male,Asian,Natomas,CA,2018
 4302,31.0,Female,White,Hopewell,VA,2018
 4311,24.0,Male,Asian,Terre Haute,IN,2018
 4312,27.0,Male,White,Franklin Township,PA,2018
@@ -1715,8 +1715,8 @@ id,age,gender,race,city,state,Year
 4330,57.0,Male,Hispanic,Azusa,CA,2018
 4410,56.0,Male,Asian,Springfield,FL,2018
 4326,36.0,Male,Hispanic,Albuquerque,NM,2018
-4329,37.11884334286622,Male,Black,Wailuku,HI,2018
-4327,37.11884334286622,Male,Hispanic,Albuquerque,NM,2018
+4329,37.0,Male,Black,Wailuku,HI,2018
+4327,37.0,Male,Hispanic,Albuquerque,NM,2018
 4324,24.0,Female,Hispanic,San Jose,CA,2018
 4325,34.0,Male,Hispanic,Buckeye,AZ,2018
 4322,17.0,Male,White,Lakeland,FL,2018
@@ -1752,7 +1752,7 @@ id,age,gender,race,city,state,Year
 4360,50.0,Male,Asian,Milwaukie,OR,2019
 4361,55.0,Male,Asian,Santa Clara,CA,2019
 4352,42.0,Male,White,Hurricane,WV,2019
-4359,37.11884334286622,Male,Asian,Cache,OK,2019
+4359,37.0,Male,Asian,Cache,OK,2019
 5409,38.0,Male,Other,Houston,TX,2019
 4351,38.0,Male,Hispanic,Kent,WA,2019
 4362,35.0,Male,Asian,Spokane,WA,2019
@@ -1780,8 +1780,8 @@ id,age,gender,race,city,state,Year
 4402,18.0,Male,White,Atlanta,GA,2019
 4516,22.0,Male,White,St. Louis,MO,2019
 4389,46.0,Male,Asian,Fort Lupton,CO,2019
-4391,37.11884334286622,Male,White,West Memphis,AR,2019
-4392,37.11884334286622,Female,Asian,West Memphis,AR,2019
+4391,37.0,Male,White,West Memphis,AR,2019
+4392,37.0,Female,Asian,West Memphis,AR,2019
 4393,57.0,Male,Asian,Sperry,OK,2019
 4401,32.0,Male,Asian,Charlotte,NC,2019
 4502,31.0,Male,White,Silver Spring,MD,2019
@@ -1794,7 +1794,7 @@ id,age,gender,race,city,state,Year
 4395,21.0,Male,White,Atlanta,GA,2019
 4405,20.0,Male,Asian,Flagstaff,AZ,2019
 4407,46.0,Male,White,Spokane,WA,2019
-4408,37.11884334286622,Male,Native American,Naschitti,NM,2019
+4408,37.0,Male,Native American,Naschitti,NM,2019
 4414,20.0,Male,Hispanic,Flagstaff,AZ,2019
 4409,24.0,Female,Asian,St. Louis,MO,2019
 4514,26.0,Male,Hispanic,Ehrenberg,AZ,2019
@@ -1848,7 +1848,7 @@ id,age,gender,race,city,state,Year
 4479,47.0,Male,Asian,Apex,NC,2019
 4462,47.0,Male,Hispanic,Los Angeles,CA,2019
 4463,34.0,Male,Asian,Aspers,PA,2019
-4477,37.11884334286622,Male,Asian,San Jose,CA,2019
+4477,37.0,Male,Asian,San Jose,CA,2019
 4476,45.0,Male,White,Aurora,IL,2019
 4470,17.0,Male,White,Chicago,IL,2019
 4478,34.0,Male,Other,Clinton,MS,2019
@@ -1894,7 +1894,7 @@ id,age,gender,race,city,state,Year
 4679,31.0,Male,Asian,Greenville,MS,2019
 4678,25.0,Male,White,Morgantown,WV,2019
 4544,47.0,Male,Asian,Jonesboro,AR,2019
-4545,37.11884334286622,Male,Hispanic,Vancouver,WA,2019
+4545,37.0,Male,Hispanic,Vancouver,WA,2019
 4546,23.0,Male,Asian,Anchorage,AK,2019
 4556,34.0,Male,Asian,Athens,GA,2019
 4554,51.0,Female,Asian,Cheatham County,TN,2019
@@ -1959,7 +1959,7 @@ id,age,gender,race,city,state,Year
 4613,53.0,Male,Asian,Brownstown,IN,2019
 4614,50.0,Male,Hispanic,San Diego,CA,2019
 4616,55.0,Male,Hispanic,Boynton Beach,FL,2019
-4617,37.11884334286622,Male,Asian,Pelion,SC,2019
+4617,37.0,Male,Asian,Pelion,SC,2019
 4619,37.0,Male,Asian,Kalamazoo,MI,2019
 4625,30.0,Male,Hispanic,Anaheim,CA,2019
 4624,36.0,Male,Asian,New Albany,IN,2019
@@ -1986,7 +1986,7 @@ id,age,gender,race,city,state,Year
 4636,32.0,Male,Native American,Rushville,NE,2019
 4639,47.0,Male,Asian,Los Angeles,CA,2019
 4655,33.0,Male,Asian,Portland,OR,2019
-4632,37.11884334286622,Male,Asian,Pigeon Forge,TN,2019
+4632,37.0,Male,Asian,Pigeon Forge,TN,2019
 4638,24.0,Male,Asian,Lee,NY,2019
 4641,24.0,Male,Asian,Fountain Inn,SC,2019
 5412,42.0,Male,Asian,Montesano,WA,2019
@@ -2014,7 +2014,7 @@ id,age,gender,race,city,state,Year
 4693,26.0,Male,Hispanic,Phoenix,AZ,2019
 4694,29.0,Male,Asian,Hancock County,MS,2019
 4695,49.0,Female,Other,Welch,WV,2019
-4687,37.11884334286622,Male,Hispanic,Los Angeles,CA,2019
+4687,37.0,Male,Hispanic,Los Angeles,CA,2019
 4690,45.0,Female,Asian,Welcome,NC,2019
 4688,51.0,Male,Hispanic,Miami,FL,2019
 4689,37.0,Male,Hispanic,Meadowlake,NM,2019
@@ -2034,7 +2034,7 @@ id,age,gender,race,city,state,Year
 4703,29.0,Male,Hispanic,Phoenix,AZ,2019
 4734,25.0,Male,White,Tulsa,OK,2019
 4713,26.0,Male,White,Chicago,IL,2019
-4714,37.11884334286622,Male,White,Savannah,GA,2019
+4714,37.0,Male,White,Savannah,GA,2019
 4715,39.0,Male,Asian,Tunbridge,VT,2019
 4717,26.0,Male,Hispanic,South Sioux City,NE,2019
 4718,36.0,Male,White,Gardena,CA,2019
@@ -2042,9 +2042,9 @@ id,age,gender,race,city,state,Year
 4720,45.0,Male,Asian,Rising Sun,MD,2019
 4722,54.0,Male,Asian,Las Vegas,NV,2019
 4721,43.0,Male,Hispanic,Tamarac,FL,2019
-5227,37.11884334286622,Male,White,Appleton,WI,2019
+5227,37.0,Male,White,Appleton,WI,2019
 5418,30.0,Male,White,Louisville,KY,2019
-4729,37.11884334286622,Male,Hispanic,Palm Beach Gardens,FL,2019
+4729,37.0,Male,Hispanic,Palm Beach Gardens,FL,2019
 4733,58.0,Female,Asian,New Boston,TX,2019
 4730,39.0,Male,Hispanic,Davie,FL,2019
 4732,40.0,Male,White,New Orleans,LA,2019
@@ -2074,7 +2074,7 @@ id,age,gender,race,city,state,Year
 4745,41.0,Male,White,Joliet,IL,2019
 4746,21.0,Male,White,Chicago,IL,2019
 4758,62.0,Male,Asian,Wilmington,NC,2019
-4754,37.11884334286622,Female,Hispanic,Ontario,CA,2019
+4754,37.0,Female,Hispanic,Ontario,CA,2019
 4756,32.0,Female,White,Huntsville,AL,2019
 4757,22.0,Male,Hispanic,Amarillo,TX,2019
 4759,58.0,Male,Asian,Havre de Grace,MD,2019
@@ -2092,14 +2092,14 @@ id,age,gender,race,city,state,Year
 4763,56.0,Male,Asian,Davidsonville,MD,2019
 4767,45.0,Male,Asian,Indialantic,FL,2019
 4764,28.0,Male,Hispanic,Bernalillo,NM,2019
-4765,37.11884334286622,Male,Asian,Jonesboro,AR,2019
+4765,37.0,Male,Asian,Jonesboro,AR,2019
 4766,54.0,Male,Asian,Trinity,NC,2019
 4776,39.0,Male,Asian,Escalon,CA,2019
 4773,24.0,Male,White,Los Angeles,CA,2019
 4774,41.0,Male,Hispanic,Los Angeles,CA,2019
 4775,27.0,Male,White,Los Angeles,CA,2019
 4804,70.0,Male,Asian,Braxton,MS,2019
-4805,37.11884334286622,Male,Hispanic,Modesto,CA,2019
+4805,37.0,Male,Hispanic,Modesto,CA,2019
 4829,35.0,Male,Hispanic,San Gabriel,CA,2019
 4830,26.0,Male,White,St. Louis,MO,2019
 5446,58.0,Male,Asian,Bonnyman,KY,2019
@@ -2110,7 +2110,7 @@ id,age,gender,race,city,state,Year
 4770,38.0,Male,Asian,Portland,OR,2019
 4832,41.0,Male,Asian,Shirley,AR,2019
 4833,32.0,Male,Hispanic,Menifee,CA,2019
-4771,37.11884334286622,Male,Asian,Kingsport,TN,2019
+4771,37.0,Male,Asian,Kingsport,TN,2019
 4778,24.0,Male,White,Oklahoma City,OK,2019
 4779,19.0,Male,White,Lawton,OK,2019
 4777,27.0,Male,White,Porteau,OK,2019
@@ -2213,7 +2213,7 @@ id,age,gender,race,city,state,Year
 5467,39.0,Male,Asian,League City,TX,2019
 4889,28.0,Female,Hispanic,Albuquerque,NM,2019
 5468,28.0,Male,White,Tacoma,WA,2019
-4888,37.11884334286622,Male,White,Wesson,MS,2019
+4888,37.0,Male,White,Wesson,MS,2019
 4893,53.0,Male,Asian,Ranburne,AL,2019
 4886,27.0,Male,Asian,Asbury Park,NJ,2019
 4887,31.0,Male,White,Ross Township,PA,2019
@@ -2225,7 +2225,7 @@ id,age,gender,race,city,state,Year
 4895,62.0,Male,Hispanic,Boyton Beach,FL,2019
 4902,31.0,Male,Asian,Portland,OR,2019
 4903,37.0,Male,Asian,Roy,UT,2019
-4927,37.11884334286622,Male,Hispanic,San Antonio,TX,2019
+4927,37.0,Male,Hispanic,San Antonio,TX,2019
 4950,28.0,Male,Asian,Council Bluffs,IA,2019
 5469,42.0,Male,Asian,Chattanooga,TN,2019
 4917,21.0,Male,White,Los Angeles,CA,2019
@@ -2261,13 +2261,13 @@ id,age,gender,race,city,state,Year
 4949,38.0,Male,Asian,Chetopa,KS,2019
 4939,31.0,Male,Asian,Joplin,MO,2019
 4940,51.0,Male,White,Clinton,TN,2019
-4941,37.11884334286622,Male,Asian,Louisville,KY,2019
+4941,37.0,Male,Asian,Louisville,KY,2019
 4943,51.0,Male,White,Kansas City,KS,2019
 4983,20.0,Male,Asian,Ramseur,NC,2019
 4966,31.0,Female,Hispanic,Denver,CO,2019
 4964,26.0,Male,Hispanic,Ogden,UT,2019
 4956,25.0,Male,White,Gary,IN,2019
-4959,37.11884334286622,Male,White,Newport News,VA,2019
+4959,37.0,Male,White,Newport News,VA,2019
 4962,62.0,Male,Asian,Springville,IN,2019
 4963,27.0,Male,White,Dallas,TX,2019
 4960,33.0,Male,Hispanic,Los Angeles,CA,2019
@@ -2315,7 +2315,7 @@ id,age,gender,race,city,state,Year
 5022,26.0,Male,White,Wellington,UT,2019
 5021,20.0,Male,Asian,Burlington,IA,2019
 5026,18.0,Male,White,Columbus,OH,2019
-5028,37.11884334286622,Male,White,Houston,TX,2019
+5028,37.0,Male,White,Houston,TX,2019
 5029,29.0,Male,Asian,Independence,MO,2019
 5030,35.0,Male,Hispanic,Santa Clarita,CA,2019
 5033,77.0,Male,Asian,Loyal,WI,2019
@@ -2415,8 +2415,8 @@ id,age,gender,race,city,state,Year
 5130,25.0,Male,White,Carmichael,CA,2019
 5143,25.0,Male,Asian,Evansville,IN,2019
 5146,24.0,Male,White,Baltimore,MD,2019
-5147,37.11884334286622,Male,Asian,Ona,WV,2019
-5162,37.11884334286622,Male,Other,Fresno,CA,2019
+5147,37.0,Male,Asian,Ona,WV,2019
+5162,37.0,Male,Other,Fresno,CA,2019
 5163,62.0,Male,Asian,Lancaster,CA,2019
 5160,34.0,Male,Asian,Bascom,FL,2019
 5161,33.0,Male,Asian,San Jose,CA,2019
@@ -2450,7 +2450,7 @@ id,age,gender,race,city,state,Year
 5181,39.0,Male,Asian,Oklahoma City,OK,2019
 5213,30.0,Male,Black,Honolulu,HI,2019
 5195,27.0,Male,White,Wilson,NC,2019
-5197,37.11884334286622,Male,Asian,Mandarin,FL,2019
+5197,37.0,Male,Asian,Mandarin,FL,2019
 5203,37.0,Male,Hispanic,Los Angeles,CA,2019
 5204,52.0,Male,Asian,Beaumont,TX,2019
 5212,35.0,Male,Asian,Fox Crossing,WI,2019
@@ -2460,7 +2460,7 @@ id,age,gender,race,city,state,Year
 5196,41.0,Male,Asian,Alliance,OH,2019
 5194,28.0,Male,White,Franklin County,WA,2019
 5201,26.0,Male,Asian,Kansas City,MO,2019
-5198,37.11884334286622,Male,Asian,Horn Lake,MS,2019
+5198,37.0,Male,Asian,Horn Lake,MS,2019
 5199,34.0,Male,Hispanic,Los Angeles,CA,2019
 5202,34.0,Male,Asian,San Bernardino,CA,2019
 5226,38.0,Male,Hispanic,West Kewaunee,WI,2019
@@ -2485,7 +2485,7 @@ id,age,gender,race,city,state,Year
 5236,54.0,Male,Asian,Modesto,CA,2019
 5239,60.0,Male,Asian,Lakeland,FL,2019
 5241,40.0,Male,Asian,Watkins,CO,2019
-5242,37.11884334286622,Male,Asian,Eatonville,WA,2019
+5242,37.0,Male,Asian,Eatonville,WA,2019
 5234,40.0,Male,Hispanic,Eugene,OR,2019
 5228,68.0,Male,Asian,Secaucus,NJ,2019
 5229,68.0,Male,White,Morrow,GA,2019
@@ -2496,7 +2496,7 @@ id,age,gender,race,city,state,Year
 5246,38.0,Male,Other,Los Angeles,CA,2019
 5249,28.0,Male,White,Temple,TX,2019
 5388,18.0,Male,Native American,Mesa,AZ,2019
-5247,37.11884334286622,Male,Asian,Ada,OK,2019
+5247,37.0,Male,Asian,Ada,OK,2019
 5250,26.0,Male,White,Kansas City,MO,2019
 5257,31.0,Male,White,Syracuse,NY,2019
 5255,58.0,Male,White,Avon,CO,2019
@@ -2536,7 +2536,7 @@ id,age,gender,race,city,state,Year
 5291,34.0,Male,Black,Kalihi,HI,2019
 5292,25.0,Male,Hispanic,Los Angeles,CA,2019
 5296,28.0,Male,Hispanic,San Bernardino,CA,2019
-5288,37.11884334286622,Male,Asian,Wilmington,NC,2019
+5288,37.0,Male,Asian,Wilmington,NC,2019
 5289,27.0,Male,Asian,Fort Walton Beach,FL,2019
 5395,41.0,Male,Asian,Great Falls,MT,2019
 5287,29.0,Male,Asian,Tulsa,OK,2019
@@ -2565,7 +2565,7 @@ id,age,gender,race,city,state,Year
 5314,35.0,Male,White,Memphis,TN,2019
 5325,35.0,Male,Hispanic,Auburndale,FL,2019
 5322,16.0,Male,Hispanic,Limerick,ME,2019
-5323,37.11884334286622,Male,Asian,Linthicum,MD,2019
+5323,37.0,Male,Asian,Linthicum,MD,2019
 5324,42.0,Male,Asian,South Ogden,UT,2019
 5315,52.0,Male,Asian,Houston,TX,2019
 5316,31.0,Male,Asian,Elizabethton,TN,2019
@@ -2575,13 +2575,13 @@ id,age,gender,race,city,state,Year
 5310,76.0,Male,Asian,DeSoto County,MS,2019
 5311,29.0,Male,Asian,Rapid City,SD,2019
 5313,34.0,Male,Asian,Juneau,AK,2019
-5318,37.11884334286622,Male,Hispanic,El Centro,CA,2019
+5318,37.0,Male,Hispanic,El Centro,CA,2019
 5312,18.0,Male,White,Houston,TX,2019
 5402,51.0,Female,Asian,Wichita,KS,2019
 5404,25.0,Male,Asian,Fulton,MO,2019
 5332,28.0,Male,Asian,Globe,AZ,2019
 5333,37.0,Male,White,Chesterfield,MO,2019
-5345,37.11884334286622,Male,White,Forrest City,AR,2019
+5345,37.0,Male,White,Forrest City,AR,2019
 5358,23.0,Male,White,Federal Way,WA,2019
 5359,57.0,Male,White,Omaha,NE,2019
 5374,49.0,Male,Asian,Cross Lanes,WV,2019
@@ -2610,7 +2610,7 @@ id,age,gender,race,city,state,Year
 5499,41.0,Male,Asian,Powatan Point,OH,2020
 5571,47.0,Male,White,Philadelphia,PA,2020
 5365,24.0,Male,Hispanic,Muscoy,CA,2020
-5366,37.11884334286622,Male,Asian,Glenwood Springs,CO,2020
+5366,37.0,Male,Asian,Glenwood Springs,CO,2020
 5501,47.0,Male,White,Bainbridge,GA,2020
 5367,31.0,Male,Hispanic,Los Angeles,CA,2020
 5368,47.0,Male,Asian,Carthage,MO,2020
@@ -2694,7 +2694,7 @@ id,age,gender,race,city,state,Year
 5550,37.0,Male,Hispanic,Sparks,NV,2020
 5535,21.0,Male,Hispanic,Silverton,OR,2020
 5539,63.0,Male,Asian,Commerce City,CO,2020
-5547,37.11884334286622,Male,Hispanic,Rialto,CA,2020
+5547,37.0,Male,Hispanic,Rialto,CA,2020
 5548,58.0,Male,Asian,Polkton,NC,2020
 5536,16.0,Male,Other,Anchorage,AK,2020
 5532,31.0,Male,Asian,Newbury,MA,2020
@@ -2737,12 +2737,12 @@ id,age,gender,race,city,state,Year
 5598,49.0,Male,Hispanic,Miami-Dade,FL,2020
 5607,39.0,Male,Asian,Riverside,WA,2020
 5605,37.0,Male,Asian,Manila,AR,2020
-5606,37.11884334286622,Male,Asian,Ariton,AL,2020
+5606,37.0,Male,Asian,Ariton,AL,2020
 5613,31.0,Male,Black,Henrico,VA,2020
 5656,25.0,Male,White,Pittsburgh,PA,2020
 5619,24.0,Male,White,Fairfield,OH,2020
 5620,27.0,Male,White,Fort Lauderdale,FL,2020
-5621,37.11884334286622,Male,Asian,Tulsa,OK,2020
+5621,37.0,Male,Asian,Tulsa,OK,2020
 5657,32.0,Male,Asian,Edison,CA,2020
 5618,43.0,Male,Asian,Harrison Township,OH,2020
 5609,84.0,Male,Asian,Apache Junction,AZ,2020
@@ -2762,7 +2762,7 @@ id,age,gender,race,city,state,Year
 5635,62.0,Male,Asian,New Kensington,PA,2020
 5654,41.0,Male,Hispanic,Chandler,AZ,2020
 5664,50.0,Male,Other,Garland,TX,2020
-5665,37.11884334286622,Male,Asian,Mufreesboro,TN,2020
+5665,37.0,Male,Asian,Mufreesboro,TN,2020
 5629,31.0,Male,Hispanic,Taos,NM,2020
 5630,30.0,Male,Asian,Louisville,KY,2020
 5631,32.0,Male,Asian,Springfield,OR,2020
@@ -2811,7 +2811,7 @@ id,age,gender,race,city,state,Year
 5713,27.0,Male,Hispanic,Manchester,CT,2020
 5714,26.0,Male,Asian,Nutter Fort,WV,2020
 5716,62.0,Male,Asian,Manchester,NH,2020
-5718,37.11884334286622,Male,Asian,Ada,OK,2020
+5718,37.0,Male,Asian,Ada,OK,2020
 5722,39.0,Male,Asian,Milford,MA,2020
 5723,67.0,Male,Asian,Melbourne,FL,2020
 5724,54.0,Male,Asian,Florence,AL,2020
@@ -2826,7 +2826,7 @@ id,age,gender,race,city,state,Year
 5734,19.0,Male,White,Colonial Heights,VA,2020
 5735,36.0,Male,Asian,Winchester,TN,2020
 5736,39.0,Male,Asian,Brandon,CO,2020
-5737,37.11884334286622,Male,Asian,Klamath Falls,OR,2020
+5737,37.0,Male,Asian,Klamath Falls,OR,2020
 5738,33.0,Male,Asian,Philadelphia,PA,2020
 5739,31.0,Male,White,Pottstown,PA,2020
 5740,29.0,Female,Asian,Jacksonville,FL,2020
@@ -2842,7 +2842,7 @@ id,age,gender,race,city,state,Year
 5670,24.0,Male,Hispanic,Richmond,CA,2020
 5674,48.0,Male,Asian,Philipsburg,MT,2020
 5749,31.0,Male,White,Lubbock,TX,2020
-5675,37.11884334286622,Male,White,Daphne,AL,2020
+5675,37.0,Male,White,Daphne,AL,2020
 5750,43.0,Male,Asian,Anderson,SC,2020
 5671,33.0,Male,White,San Leandro,CA,2020
 5672,37.0,Male,White,Raytown,MO,2020
@@ -2953,7 +2953,7 @@ id,age,gender,race,city,state,Year
 5855,31.0,Male,Asian,Centennial,CO,2020
 5906,35.0,Male,White,North Little Rock,AR,2020
 5844,22.0,Female,Black,Temple Terrace,FL,2020
-5845,37.11884334286622,Male,Asian,Lancaster,CA,2020
+5845,37.0,Male,Asian,Lancaster,CA,2020
 5849,35.0,Male,White,Philadelphia,PA,2020
 5850,39.0,Male,White,Snellville,GA,2020
 5879,44.0,Male,White,Yulee,FL,2020
@@ -3013,7 +3013,7 @@ id,age,gender,race,city,state,Year
 5943,43.0,Male,Hispanic,Pueblo,CO,2020
 6070,40.0,Male,Asian,Wasilla,AK,2020
 6071,22.0,Male,White,Sherman,TX,2020
-5942,37.11884334286622,Female,Other,Lake Forest,CA,2020
+5942,37.0,Female,Other,Lake Forest,CA,2020
 6072,31.0,Male,White,San Bernardino,CA,2020
 5948,34.0,Male,White,Vinita,OK,2020
 5949,37.0,Male,Hispanic,Atlanta,GA,2020
@@ -3075,7 +3075,7 @@ id,age,gender,race,city,state,Year
 6004,22.0,Male,White,Sacramento,CA,2020
 6005,49.0,Female,Asian,Largo,FL,2020
 6080,37.0,Male,Asian,Waukesha,WI,2020
-6008,37.11884334286622,Male,White,Detroit,MI,2020
+6008,37.0,Male,White,Detroit,MI,2020
 6017,51.0,Male,Asian,Eureka,CA,2020
 6015,61.0,Male,White,Stockton,CA,2020
 6022,45.0,Male,White,Roxboro,NC,2020
@@ -3122,7 +3122,7 @@ id,age,gender,race,city,state,Year
 6064,48.0,Male,Asian,Rogers County,OK,2020
 6589,31.0,Male,Asian,Reseda,CA,2020
 6049,39.0,Male,Hispanic,Phoenix,AZ,2020
-6053,37.11884334286622,Male,Asian,Dania Beach,FL,2020
+6053,37.0,Male,Asian,Dania Beach,FL,2020
 6041,41.0,Male,Asian,Oak Ridge,TN,2020
 6046,32.0,Male,White,Pasadena,CA,2020
 6047,51.0,Male,Asian,Marion County,FL,2020
@@ -3148,7 +3148,7 @@ id,age,gender,race,city,state,Year
 6107,29.0,Male,White,Rancho Cordova,CA,2020
 6111,35.0,Male,Native American,Belcourt,ND,2020
 6108,47.0,Male,White,Kingsland,GA,2020
-6109,37.11884334286622,Male,Hispanic,Albuquerque,NM,2020
+6109,37.0,Male,Hispanic,Albuquerque,NM,2020
 6124,31.0,Male,Asian,Lincoln County,NC,2020
 6116,30.0,Male,Asian,Barbourville,KY,2020
 6123,47.0,Male,Asian,Eckford Township,MI,2020
@@ -3184,15 +3184,15 @@ id,age,gender,race,city,state,Year
 6155,47.0,Male,Asian,McCracken County,KY,2020
 6161,41.0,Male,Native American,Denver,CO,2020
 6158,18.0,Male,White,Norcross,GA,2020
-6163,37.11884334286622,Male,Asian,Henderson County,NC,2020
+6163,37.0,Male,Asian,Henderson County,NC,2020
 6164,49.0,Male,White,Moscow,TN,2020
 6165,41.0,Male,Hispanic,Los Angeles,CA,2020
 6166,48.0,Male,Asian,Fayetteville,NC,2020
 6159,88.0,Male,White,West Sacramento,CA,2020
-6160,37.11884334286622,Male,Hispanic,Denver,CO,2020
+6160,37.0,Male,Hispanic,Denver,CO,2020
 6157,27.0,Male,Hispanic,Lancaster,PA,2020
 6171,27.0,Male,Asian,Bountiful,UT,2020
-6172,37.11884334286622,Male,Asian,Denver,CO,2020
+6172,37.0,Male,Asian,Denver,CO,2020
 6173,55.0,Male,White,San Antonio,TX,2020
 6174,37.0,Male,Hispanic,Immokalee,FL,2020
 6182,45.0,Male,Asian,West Des Moines,IA,2020
@@ -3206,7 +3206,7 @@ id,age,gender,race,city,state,Year
 6192,52.0,Male,White,Talking Rock,GA,2020
 6180,39.0,Female,Asian,Redmond,WA,2020
 6176,26.0,Male,White,St. Louis,MO,2020
-6177,37.11884334286622,Male,Hispanic,Nogales,AZ,2020
+6177,37.0,Male,Hispanic,Nogales,AZ,2020
 6179,28.0,Male,White,Atlanta,GA,2020
 6178,30.0,Male,Asian,Geneseo,IL,2020
 6187,44.0,Male,Hispanic,San Antonio,TX,2020
@@ -3253,14 +3253,14 @@ id,age,gender,race,city,state,Year
 6238,25.0,Male,White,Los Angeles,CA,2020
 6246,27.0,Male,White,Rock Island,IL,2020
 6371,46.0,Male,Asian,Riesel,TX,2020
-6373,37.11884334286622,Male,Asian,Callahan,FL,2020
+6373,37.0,Male,Asian,Callahan,FL,2020
 6236,53.0,Male,Asian,Muhlenberg County,KY,2020
 6241,21.0,Male,Asian,Wood County,WV,2020
 6374,41.0,Male,Asian,Huntsville,AL,2020
 6245,32.0,Male,Asian,Fresno,CA,2020
 6247,37.0,Male,Other,Tooele,UT,2020
 6375,43.0,Male,Asian,Catoosa County,GA,2020
-6244,37.11884334286622,Male,Asian,Emmitsburg,MD,2020
+6244,37.0,Male,Asian,Emmitsburg,MD,2020
 6376,37.0,Male,Asian,Thornton,NH,2020
 6248,19.0,Male,White,Waukegan,IL,2020
 6250,43.0,Male,Hispanic,Phoenix,AZ,2020
@@ -3274,7 +3274,7 @@ id,age,gender,race,city,state,Year
 6262,43.0,Male,Asian,Eagle River,AK,2020
 6381,35.0,Male,Asian,Barstow,CA,2020
 6260,25.0,Male,Hispanic,Chicago,IL,2020
-6265,37.11884334286622,Male,Asian,Huntsville,UT,2020
+6265,37.0,Male,Asian,Huntsville,UT,2020
 6382,26.0,Male,White,Kansas City,MO,2020
 6389,30.0,Male,Hispanic,San Ysidro,CA,2020
 6254,33.0,Male,Asian,Lawrenceburg,IN,2020
@@ -3324,7 +3324,7 @@ id,age,gender,race,city,state,Year
 6351,44.0,Male,Asian,New Lyme Township,OH,2020
 6306,37.0,Male,White,Oklahoma City,OK,2020
 6350,52.0,Male,Asian,Winchester,VA,2020
-6302,37.11884334286622,Male,Asian,Gulfport,MS,2020
+6302,37.0,Male,Asian,Gulfport,MS,2020
 6311,18.0,Male,White,Cocoa,FL,2020
 6312,16.0,Male,White,Cocoa,FL,2020
 6318,19.0,Male,White,Cleveland,OH,2020
@@ -3335,7 +3335,7 @@ id,age,gender,race,city,state,Year
 6317,66.0,Male,Asian,Corpus Christi,TX,2020
 6324,38.0,Male,Hispanic,Sacramento,CA,2020
 6308,35.0,Male,Asian,Meredith,NH,2020
-6658,37.11884334286622,Male,White,Los Angeles,CA,2020
+6658,37.0,Male,White,Los Angeles,CA,2020
 6313,38.0,Male,White,Dania Beach,FL,2020
 6314,32.0,Male,Asian,Batesville,IN,2020
 6319,39.0,Male,White,La Vergne,TN,2020
@@ -3381,7 +3381,7 @@ id,age,gender,race,city,state,Year
 6427,35.0,Male,White,New York,NY,2020
 6428,60.0,Male,Asian,Tonopah,AZ,2020
 6403,67.0,Male,Asian,Savannah,GA,2020
-6406,37.11884334286622,Male,White,Toledo,OH,2020
+6406,37.0,Male,White,Toledo,OH,2020
 6400,28.0,Male,Hispanic,Rowland Heights,CA,2020
 6401,28.0,Male,White,St. Louis,MO,2020
 6411,37.0,Male,White,Dayton,OH,2020
@@ -3403,7 +3403,7 @@ id,age,gender,race,city,state,Year
 6415,52.0,Male,Hispanic,New York,NY,2020
 6416,26.0,Male,Asian,Sacramento,CA,2020
 6429,34.0,Male,Asian,Houston,TX,2020
-6430,37.11884334286622,Male,Asian,Pearland,TX,2020
+6430,37.0,Male,Asian,Pearland,TX,2020
 6669,28.0,Male,Native American,Glenpool,OK,2020
 6431,29.0,Male,White,Concord,NC,2020
 6432,34.0,Male,Asian,Orlando,FL,2020
@@ -3446,7 +3446,7 @@ id,age,gender,race,city,state,Year
 6479,27.0,Male,White,Homestead,FL,2021
 6514,49.0,Male,Hispanic,Ontario,OR,2021
 6509,28.0,Male,Asian,Payson,AZ,2021
-6510,37.11884334286622,Female,Asian,Columbiana,AL,2021
+6510,37.0,Female,Asian,Columbiana,AL,2021
 6507,28.0,Male,Asian,Newton,MA,2021
 6508,18.0,Male,White,Cleveland,OH,2021
 6511,36.0,Male,Asian,Spokane,WA,2021
@@ -3478,7 +3478,7 @@ id,age,gender,race,city,state,Year
 6522,24.0,Male,White,Carmichael,CA,2021
 6524,25.0,Male,Asian,Marion,IN,2021
 6527,24.0,Male,White,Lawton,OK,2021
-6683,37.11884334286622,Male,Hispanic,Goodyear,AZ,2021
+6683,37.0,Male,Hispanic,Goodyear,AZ,2021
 6529,27.0,Male,White,Toledo,OH,2021
 6531,56.0,Male,Asian,St. Clair County,AL,2021
 6530,32.0,Male,Asian,Greeley,CO,2021
@@ -3488,11 +3488,11 @@ id,age,gender,race,city,state,Year
 6537,33.0,Male,Asian,College Station,TX,2021
 6538,27.0,Male,Hispanic,San Jose,CA,2021
 6543,34.0,Male,Asian,Caneyville,KY,2021
-6544,37.11884334286622,Male,Asian,Homosassa,FL,2021
+6544,37.0,Male,Asian,Homosassa,FL,2021
 6541,38.0,Male,White,Wichita Falls,TX,2021
 6548,50.0,Male,Asian,Graham,WA,2021
 6545,61.0,Male,Asian,Vacaville,CA,2021
-6547,37.11884334286622,Female,Asian,Adams County,CO,2021
+6547,37.0,Female,Asian,Adams County,CO,2021
 6552,48.0,Male,Hispanic,San Antonio,TX,2021
 6551,26.0,Male,Hispanic,San Antonio,TX,2021
 6684,55.0,Male,White,Los Angeles,CA,2021
@@ -3513,7 +3513,7 @@ id,age,gender,race,city,state,Year
 6579,18.0,Male,White,Mobile,AL,2021
 6580,34.0,Male,White,Baltimore,MD,2021
 6607,30.0,Male,White,Hazel Dell,WA,2021
-6575,37.11884334286622,Male,White,Martinsville,VA,2021
+6575,37.0,Male,White,Martinsville,VA,2021
 6601,36.0,Male,White,Stratford,CT,2021
 6568,26.0,Male,Hispanic,Long Beach,CA,2021
 6569,52.0,Male,Asian,Laytonsville,MD,2021
@@ -3676,7 +3676,7 @@ id,age,gender,race,city,state,Year
 6865,32.0,Male,Asian,Rogue River,OR,2021
 6902,22.0,Male,Asian,Englewood,CO,2021
 6871,24.0,Male,White,Champaign,IL,2021
-6873,37.11884334286622,Male,Asian,Churchland,NC,2021
+6873,37.0,Male,Asian,Churchland,NC,2021
 6875,21.0,Male,White,College Station,TX,2021
 6886,30.0,Male,Hispanic,Kings County,CA,2021
 6885,26.0,Male,White,Washington,DC,2021
@@ -3715,7 +3715,7 @@ id,age,gender,race,city,state,Year
 6934,29.0,Male,White,Holly Springs,GA,2021
 6935,35.0,Male,Asian,Amherst County,VA,2021
 6937,44.0,Male,Asian,Bessemer City,NC,2021
-6938,37.11884334286622,Male,Asian,Alford,FL,2021
+6938,37.0,Male,Asian,Alford,FL,2021
 6955,40.0,Male,Asian,Harrison,AR,2021
 6947,19.0,Female,White,Flint,MI,2021
 6952,20.0,Male,White,Lee County,AL,2021
@@ -3727,7 +3727,7 @@ id,age,gender,race,city,state,Year
 7001,26.0,Male,Asian,De Soto,MO,2021
 6996,32.0,Male,Hispanic,Santa Fe,NM,2021
 6997,40.0,Male,White,Greenville,SC,2021
-6999,37.11884334286622,Male,White,Norwalk,CA,2021
+6999,37.0,Male,White,Norwalk,CA,2021
 6971,40.0,Male,Asian,Portland,OR,2021
 6983,40.0,Male,Hispanic,Cumming,GA,2021
 6985,48.0,Male,Asian,Washington,NC,2021
@@ -3737,7 +3737,7 @@ id,age,gender,race,city,state,Year
 6967,23.0,Male,Asian,Fairbanks,AK,2021
 6964,39.0,Male,Asian,Graham,TX,2021
 6980,29.0,Female,Asian,Plainville,KS,2021
-6969,37.11884334286622,Male,Hispanic,Commerce City,CO,2021
+6969,37.0,Male,Hispanic,Commerce City,CO,2021
 6977,35.0,Male,Other,Siskiyou County,CA,2021
 6962,32.0,Male,Asian,Flour Bluff,TX,2021
 6975,58.0,Male,Asian,Bayard,NE,2021
@@ -3759,7 +3759,7 @@ id,age,gender,race,city,state,Year
 7043,51.0,Female,Asian,Hailey,ID,2021
 7050,21.0,Male,White,Gaithersburg,MD,2021
 7031,36.0,Male,White,Savannah,GA,2021
-7042,37.11884334286622,Male,White,Canton,MS,2021
+7042,37.0,Male,White,Canton,MS,2021
 7039,35.0,Male,Asian,Malbis,AL,2021
 7037,50.0,Male,Asian,Toledo,OH,2021
 7030,19.0,Male,Hispanic,Salinas,CA,2021
@@ -3785,6 +3785,6 @@ id,age,gender,race,city,state,Year
 7190,40.0,Male,Hispanic,Gilroy,CA,2021
 7174,47.0,Male,White,Nashville,TN,2021
 7169,30.0,Male,White,Houston,TX,2021
-7183,37.11884334286622,Male,White,Looxahoma,MS,2021
+7183,37.0,Male,White,Looxahoma,MS,2021
 7184,43.0,Male,Hispanic,Huntington Beach,CA,2021
 7186,30.0,Female,Hispanic,Delano,CA,2021
