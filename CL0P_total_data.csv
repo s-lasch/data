@@ -1,0 +1,561 @@
+#,Country,City,Industry,Company
+1,USA,,College,
+2,United Arab Emirates,,Shipyard?,
+3,Austria,Vienna,Bank,Bank99
+4,Austria,,Company?,
+5,Austria,,Company?,
+6,Austria,Vienna,Financial Market Authority,Finanzmarktaufsichtsbehörde FMA
+7,Australia,Sydney NSW,Acounting firm,PwC Australia
+8,Australia,Melbourne VIC,Facility management company,
+9,Australia,,Gaming technology?,
+10,Australia,Melbourne VIC,Health insurer,Medibank
+11,Australia,Perth WA,Mining company,Fortescue
+12,Belgium,Zaventem,Automotive supplier,Toyota Boshoku Europe
+13,Bermuda,,Company?,
+14,Bermuda,,Insurance company,Lombard International Life Assurance Company
+15,Brazil,,Insurance?,
+16,Canada,Liverpool NS,Administrative entity,Region of Queens Municipality
+17,Canada,,Association?,
+18,Canada,Halifax NS,City government,Halifax Regional Municipality
+19,Canada,,Communication technology provider,
+20,Canada,Halifax NS,Correctional Services,Department of Justice - Correctional Services
+21,Canada,Halifax NS,Department of education,Department of Education and Early Childhood Development
+22,Canada,Halifax NS,Department of Labor and Immigration,"Department of Labour, Skills and Immigration"
+23,Canada,Halifax NS,Drug prescription monitoring,Nova Scotia Prescription Monitoring Program (NSPMP)
+24,Canada,Dartmouth NS,Election Authority,Elections Nova Scotia
+25,Canada,,Engineering Group?,
+26,Canada,,Furnishing chain?,
+27,Canada,Halifax NS,Health Department,Department of Health and Wellness
+28,Canada,Halifax NS,Health Department,Nova Scotia Health Authority
+29,Canada,Windsor ON,Health insurer,Green Shield Canada (GSC)
+30,Canada,Ottawa ON,Health promotion,BORN Ontario
+31,Canada,Halifax NS,Hospital,IWK Health Centre
+32,Canada,Toronto ON,Insurance company,The Independent Order of Foresters / Foresters Financial
+33,Canada,Toronto ON,Mining company?,
+34,Canada,Halifax NS,Pension plan,Nova Scotia pension plan
+35,Canada,New Westminster BC,Police agency,Metro Vancouver Transit Police
+36,Canada,Saulnierville NS,School board,Conseil scolaire acadien provincial (CSAP)
+37,Canada,Halifax NS,Social service,Department of Community Services
+38,Canada,,Software vendor?,
+39,Canada,Halifax NS,Tourist Accommodations Registry,"Department of Communities, Culture, Tourism and Heritage / Tourist accommodation registry"
+40,Canada,Halifax NS,Water utility,Halifax Water
+41,Switzerland,,Automotive supplier?,
+42,Switzerland,,Company?,
+43,Switzerland,,Company?,
+44,Switzerland,Landquart GR,Health insurance,ÖKK Kranken- und Unfallversicherungen AG (ÖKK)
+45,Switzerland,,IT service provider?,
+46,Switzerland,,IT wholesaler?,
+47,Switzerland,,Pharmaceutical company?,
+48,Switzerland,Geneva GE,Tobacco manufacturer,Japan Tobacco International
+49,China,,Bank?,
+50,China,,Electronic products supplier?,
+51,Germany,Berlin,Association of statutory health insurers,AOK Bundesverband
+52,Germany,,Automotive supplier?,
+53,Germany,,Automotive supplier?,
+54,Germany,Frankfurt/Main,Bank,Commerzbank / Comdirect
+55,Germany,Frankfurt/Main,Bank,Deutsche Bank
+56,Germany,Frankfurt/Main,Bank,ING-DiBa
+57,Germany,Bonn,Bank,Postbank
+58,Germany,,Banks,Sparda-Banken
+59,Germany,,Bonus program?,
+60,Germany,,Company?,
+61,Germany,Heidelberg,Comparison Shopping Website,Verivox
+62,Germany,Munich,Energy technology,Siemens Energy
+63,Germany,Berlin,Health insurance company,Barmer
+64,Germany,Munich,Insurance company,Bayern-Versicherung Lebensversicherung AG
+65,Germany,Munich,Insurance company,Lebensversicherung von 1871
+66,Germany,Düsseldorf,Insurance company,Provinzial / Provinzial Nordwest Lebensversicherung AG
+67,Germany,Neuss,Insurance company,Provinzial / RheinLand Versicherungs AG
+68,Germany,,Logistics company?,
+69,Germany,,Logistics solutions?,
+70,Germany,,Manufacturer?,
+71,Germany,,Mechanical engineering company?,
+72,Germany,Mainz,Media company,VRM
+73,Germany,Heidelberg,Printing presses,Heidelberger Druckmaschinen AG
+74,Germany,Alsfeld,Publishing company,Verlagsgesellschaft Vogelsberg GmbH & Co. KG
+75,Germany,Gütersloh,Service provider for customer contact management,Majorel Deutschland
+76,Germany,Stuttgart,Statutory health insurance,AOK Baden-Württemberg
+77,Germany,Munich,Statutory health insurance,AOK Bayern
+78,Germany,Bremen,Statutory health insurance,AOK Bremen/Bremerhaven
+79,Germany,Bad Homburg vor der Höhe,Statutory health insurance,AOK Hessen
+80,Germany,Hannover,Statutory health insurance,AOK Niedersachsen
+81,Germany,Dresden,Statutory health insurance,AOK Plus
+82,Germany,Eisenberg (Pfalz),Statutory health insurance,AOK Rheinland-Pfalz/Saarland
+83,Germany,Magdeburg,Statutory health insurance,AOK Sachsen-Anhalt
+84,Germany,,Technology company?,
+85,Germany,,Technology company?,
+86,Denmark,,Mechanical engineering company?,
+87,Spain,,IT service provider?,
+88,Finland,,Technology company,
+89,France,Rueil-Malmaison,Electrical technology,Schneider Electric
+90,France,Lyon,Hospital operator,Hospices Civils de Lyon
+91,France,Boulogne-Billancourt,IT company,Cegedim
+92,France,Paris,Laboratory,Synlab
+93,France,Saint-Denis,Railway company,Société nationale des chemins de fer français (SNCF)
+94,Guatemala,,Bank?,
+95,Ireland,Dublin,Airline,Aer Lingus
+96,Ireland,Dublin,Airport operator,Dublin Airport Authority (DAA)
+97,Ireland,Dublin,Gambling company,Flutter
+98,Ireland,Dublin,Health Department,Health Service Executive HSE
+99,Ireland,,Packaging manufacturer?,
+100,Ireland,,Regulatory authority?,
+101,Israel,,Company?,
+102,India,,Automotive supplier?,
+103,India,,Diversified group?,
+104,India,,Insurance company?,
+105,Italy,,Accessories manufacturer?,
+106,Japan,Tokyo,Electronics Group?,Sony
+107,Luxembourg,,Company?,
+108,Malaysia,Kuala Lumpur,Insurance company,Prudential Assurance Malaysia Berhad (PAMB)
+109,Malaysia,Kuala Lumpur,Insurance company,Prudential BSN Takaful Berhad (PruBSN)
+110,Malaysia,,IT service provider?,
+111,Netherlands,,Company,
+112,Netherlands,Amsterdam,Company,Navigation systems
+113,Netherlands,,Health data?,
+114,Netherlands,,Information services company?,
+115,Netherlands,,IT service provider?,
+116,Netherlands,The Hague,Petroleum company,Shell
+117,Netherlands,,Plant engineering company?,
+118,Netherlands,Arnhem,Power grid operator,Tennet
+119,Netherlands,,Software company?,
+120,Netherlands,The Hague,Vacation parks,Landal GreenParks
+121,Norway,,Debt collection company,PRA Group
+122,Oman,,Oil and gas producer?,
+123,Philippines,,Bank,
+124,Philippines,,Drink producer?,
+125,,,Company/Organization,
+126,,,Company/Organization,
+127,,,Company/Organization,
+128,,,Company/Organization,
+129,Sweden,,Insurance company?,
+130,Sweden,,Receivables management company?,
+131,Turkey,,Aerospace company?,
+132,Turkey,,Manufacturer?,
+133,United Kingdom,London,Accounting firm,Ernst & Young
+134,United Kingdom,,AI company?,
+135,United Kingdom,London,Airline,British Airways
+136,United Kingdom,London,Broadcaster,BBC
+137,United Kingdom,Leicester,Communications service provider,Adare SEC Ltd
+138,United Kingdom,London,Consulting company,Deloitte
+139,United Kingdom,Alconbury Weald,County council,Cambridgeshire County Council
+140,United Kingdom,Beeston,Health and beauty products,Boots UK
+141,United Kingdom,Bristol,HR and payroll systems,Zellis
+142,United Kingdom,,Insurance company?,
+143,United Kingdom,,IT company,
+144,United Kingdom,,IT service provider?,
+145,United Kingdom,Slough,Logistics company,DHL Parcel UK
+146,United Kingdom,,Mechanical engineering company?,
+147,United Kingdom,,Oil and gas producer?,
+148,United Kingdom,,Outsourcing company,
+149,United Kingdom,,Printing and security solutions?,
+150,United Kingdom,,Publishing company?,
+151,United Kingdom,London,Regulatory Authority,Office of Communications Ofcom
+152,United Kingdom,Egham,Retirement plan,Superannuation Arrangements of the University of London (SAUL)
+153,United Kingdom,,Risk management,Aon
+154,United Kingdom,London,Service provider,Accelya Global Ltd
+155,United Kingdom,London,Toll accounting,Transport for London (TfL) / Ulez
+156,United Kingdom,,Vacation apartments,
+157,USA,Chicago IL,Accounting and consulting company,Crowe LLP
+158,USA,Baltimore MD,Agency,Centers for Medicare & Medicaid Services (CMS)
+159,USA,Providence RI,Agency,Rhode Island Government
+160,USA,"Washington, D.C.",Agency,United States Office of Personnel Management (OPM)
+161,USA,Las Vegas NV,Airline,Allegiant Air
+162,USA,,Airline?,
+163,USA,Burlington MA,Artificial intelligence,Nuance Communications
+164,USA,,Automation technology manufacturer?,
+165,USA,Indianapolis IN,Automotive supplier,Allison Transmission
+166,USA,,Automotive supplier?,
+167,USA,South Bend IN,Bank,1st Source Bank
+168,USA,Miami FL,Bank,City National Bank of Florida
+169,USA,Indiana PA,Bank,First Commonwealth Bank
+170,USA,Muncie IN,Bank,First Merchants Bank
+171,USA,Irvine CA,Bank,Pacific Premier Bank
+172,USA,Dallas TX,Bank,PlainsCapital Bank / Hilltop Holdings
+173,USA,Rockland MA,Bank,Rockland Trust
+174,USA,Seattle WA,Bank,Sound Community Bank
+175,USA,Denver CO,Bank,"Sunflower Bank, First National 1870, Guardian Mortgage"
+176,USA,Portland OR,Bank,Umpqua Bank / Columbia Banking System
+177,USA,Lincoln NE,Bank,Union Bank & Trust Company
+178,USA,Vienna VA,Bank,United Bank
+179,USA,Wayne NJ,Bank,Valley Bank
+180,USA,San Rafael CA,Bank,Westamerica Bank
+181,USA,,Bank?,
+182,USA,,Bank?,
+183,USA,,Bank?,
+184,USA,,Bank?,
+185,USA,,Bank?,
+186,USA,,Bank?,
+187,USA,,Beauty products supplier?,
+188,USA,,Beauty products?,
+189,USA,Aliso Viejo CA,Biotech company,Realm IDX
+190,USA,,Biotech company?,
+191,USA,,Biotech company?,
+192,USA,Lewisburg TN,Casting,Walker Die Casting
+193,USA,,Chemical company?,
+194,USA,Leawood KS,Cinema operator,American Multi-Cinema / AMC Theatres
+195,USA,Alfred NY,College,Alfred State College of Technology
+196,USA,Owosso MI,College,Baker College
+197,USA,Lewiston ME,College,Bates College
+198,USA,Tacoma WA,College,Bates Technical College
+199,USA,Houston TX,College,Baylor College of Medicine
+200,USA,Bellevue WA,College,Bellevue College (BC)
+201,USA,Bellingham WA,College,Bellingham Technical College
+202,USA,Greensboro NC,College,Bennett College
+203,USA,Bismarck ND,College,Bismarck State College (BSC)
+204,USA,Janesville WI,College,Blackhawk Technical College
+205,USA,Chadron NE,College,Chadron State College
+206,USA,Cleveland TN,College,Cleveland State Community College
+207,USA,Twin Falls ID,College,College of Southern Idaho
+208,USA,Nampa ID,College,College of Western Idaho
+209,USA,Dallas TX,College,Criswell College
+210,USA,Milton MA,College,Curry College
+211,USA,Bottineau ND,College,Dakota College at Bottineau (DCB)
+212,USA,Cupertino CA,College,De Anza College
+213,USA,Lynnwood WA,College,Edmonds College
+214,USA,Farmingdale NY,College,Farmingdale State College
+215,USA,Los Altos Hills CA,College,Foothill College
+216,USA,Auburn WA,College,Green River College
+217,USA,Clinton NY,College,Hamilton College
+218,USA,Herkimer NY,College,Herkimer College
+219,USA,Lake Forest IL,College,Lake Forest College
+220,USA,Leesburg FL,College,Lake-Sumter State College
+221,USA,Cass Lake MN,College,Leech Lake Tribal College (LLTC)
+222,USA,Lewiston ID,College,Lewis-Clark State College
+223,USA,Williamsport PA,College,Lycoming College
+224,USA,Madison WI,College,Madison College
+225,USA,Boston MA,College,Massachusetts College of Pharmacy and Health Sciences (MCPHS)
+226,USA,Middlebury VT,College,Middlebury College
+227,USA,Monterey CA,College,Monterey Peninsula College
+228,USA,Coeur d’Alene ID,College,North Idaho College
+229,USA,Tonkawa OK,College,Northern Oklahoma College (NOC)
+230,USA,Bremerton WA,College,Olympic College
+231,USA,Port Angeles WA,College,Peninsula College
+232,USA,Peru NE,College,Peru State College
+233,USA,Quincy MA,College,Quincy College
+234,USA,St. Petersburg FL,College,St. Petersburg College
+235,USA,Ewing NJ,College,The College of New Jersey
+236,USA,Hartford CT,College,Trinity College
+237,USA,Poughkeepsie NY,College,Vassar College
+238,USA,Lexington VA,College,Virginia Military Institute (VMI)
+239,USA,Wayne NE,College,Wayne State College
+240,USA,Altus OK,College,Western Oklahoma State College
+241,USA,Wilmington OH,College,Wilmington College (WC)
+242,USA,Yakima WA,College,Yakima Valley College (YVC)
+243,USA,Versailles KY,College system,Kentucky Community & Technical College System (KCTCS)
+244,USA,,Communication technology provider?,
+245,USA,Asheville NC,Community college,Asheville-Buncombe Technical Community College
+246,USA,Great Bend KS,Community college,Barton Community College
+247,USA,El Dorado KS,Community college,Butler Community College
+248,USA,McKinney TX,Community college,Collin College
+249,USA,Everett WA,Community college,Everett Community College
+250,USA,Garden City KS,Community college,Garden City Community College (GCCC)
+251,USA,Independence KS,Community college,Independence Community College
+252,USA,Kansas City KS,Community college,Kansas City Kansas Community College (KCKCC)
+253,USA,Perkinston MS,Community college,Mississippi Gulf Coast Community College
+254,USA,Sidney MI,Community college,Montcalm Community College (MCC)
+255,USA,Norfolk NE,Community college,Northeast Community College
+256,USA,Pratt KS,Community college,Pratt Community College
+257,USA,Shoreline WA,Community college,Shoreline Community College (SCC)
+258,USA,Binghamton NY,Community college,SUNY Broome Community College
+259,USA,Tacoma WA,Community college,Tacoma Community College
+260,USA,Tulsa OK,Community college,Tulsa Community College
+261,USA,Richmond VA,Community College System,Virginia Community College System (VCCS)
+262,USA,Jackson TN,Community college?,Jackson State Community College
+263,USA,,Company,
+264,USA,,Company?,
+265,USA,,Company?,
+266,USA,Oak Ridge TN,Consortium of universities,Oak Ridge Associated Universities (ORAU)
+267,USA,,Consulting company,
+268,USA,McLean VA,Consulting company,Maximus
+269,USA,,Consulting company?,
+270,USA,Pittsburgh PA,County government,Allegheny County
+271,USA,Tampa FL,County government,Hillsborough County
+272,USA,,Credit union,
+273,USA,Missoula MT,Credit union,Clearwater Credit Union
+274,USA,Chadds Ford PA,Credit union,Franklin Mint Federal Credit Union
+275,USA,,Credit union,Quorum Federal Credit Union
+276,USA,Grand Rapids MI,Credit union service provider,CU*Answers
+277,USA,,Credit union?,
+278,USA,,Credit union?,
+279,USA,,Credit union?,
+280,USA,,Credit union?,
+281,USA,,Credit union?,
+282,USA,,Credit union?,
+283,USA,,Credit union?,
+284,USA,Rochester NY,Data service provider for the healthcare sector,Cognisight
+285,USA,"Washington, D.C.",Department of Agriculture,U.S. Department of Agriculture
+286,USA,Minneapolis MN,Department of Education,Minnesota Department of Education
+287,USA,Denver CO,Department of Health Care Policy,Colorado Department of Health Care Policy & Financing
+288,USA,Salem OR,Department of Transportation,Oregon Department of Transportation (ODOT)
+289,USA,,Design and architecture firm?,
+290,USA,Durham NC,Diagnostics,bioMérieux
+291,USA,Redwood City CA,Donation management,TIAA Kaspick
+292,USA,Sacramento CA,Elderly care service,Sutter SeniorCare PACE / Sutter Senior Care
+293,USA,,Electronic products supplier?,
+294,USA,,Electronic products supplier?,
+295,USA,,Electronic products supplier?,
+296,USA,,Electronics wholesaler?,
+297,USA,,Energy company?,
+298,USA,,Engineering company?,
+299,USA,,Entertainment industry?,
+300,USA,,Financial service provider,
+301,USA,,Financial service provider,
+302,USA,,Financial service provider,
+303,USA,Des Moines IA,Financial service provider,F&G Annuities & Life
+304,USA,Boston MA,Financial service provider,Fidelity Investments
+305,USA,Richmond VA,Financial service provider,Genworth Financial
+306,USA,Omaha NE,Financial service provider,TD Ameritrade
+307,USA,,Financial service provider?,
+308,USA,,Financial service provider?,
+309,USA,,Financial service provider?,
+310,USA,,Financial service provider?,
+311,USA,,Financial service provider?,
+312,USA,Houston TX,Financial services provider,Corebridge Financial
+313,USA,,FinTech company?,
+314,USA,,Furniture components?,
+315,USA,Springfield IL,Government,
+316,USA,"Washington, D.C.",Health and Human Services,U.S. Department of Health and Human Services (HHS)
+317,USA,,Health care provider?,
+318,USA,Bellaire TX,Health care system,Harris Health System
+319,USA,Baltimore MD,Health care system,Johns Hopkins Health System
+320,USA,Tulsa OK,Health care system,Saint Francis Health System
+321,USA,,Health care system?,
+322,USA,Louisville KY,Health care system?,UofL Health
+323,USA,,Health insurance,UnitedHealthcare Student Resources
+324,USA,,Health insurance?,
+325,USA,Wilmington DE,Health insurer,Highmark Blue Cross Blue Shield Delaware
+326,USA,,Health plan?,
+327,USA,Baltimore MD,Healthcare Facility,Kennedy Krieger Institute
+328,USA,Los Angeles CA,Healthcare network,AltaMed Health Services
+329,USA,,Healthcare software?,
+330,USA,,Hospital Service Provider?,
+331,USA,Rockville MD,Hotel group,Choice Hotels International
+332,USA,St. Louis MO,Insurance,Concordia Plans
+333,USA,Birmingham AL,Insurance agency,"EBS Services, LLC"
+334,USA,Seattle WA,Insurance Broker,Milliman Solutions
+335,USA,Cincinnati OH,Insurance company,Annuity Investors Life Insurance Co.
+336,USA,West Des Moines IA,Insurance company,Athene Annuity and Life Company
+337,USA,Chesterfield MO,Insurance company,Aurora National Life Assurance
+338,USA,Charlotte NC,Insurance company,Brighthouse Life Insurance
+339,USA,San Francisco CA,Insurance company,Delta Dental
+340,USA,Armonk NY,Insurance company,Elips Life Insurance Company
+341,USA,Richmond VA,Insurance company,Genworth Life and Annuity Insurance Company
+342,USA,Richmond VA,Insurance company,Genworth Life Insurance Company
+343,USA,New York City NY,Insurance company,Genworth Life Insurance Company of New York
+344,USA,Lansing MI,Insurance company,Jackson National Life Insurance Company
+345,USA,Armonk NY,Insurance company,Lumico Life Insurance Company
+346,USA,Cincinnati OH,Insurance company,Manhattan National Life Insurance Co.
+347,USA,Springfield MA,Insurance company,Massachusetts Mutual Life Company (MassMutual)
+348,USA,Milwaukee WI,Insurance company,Northwestern Mutual
+349,USA,Minneapolis MN,Insurance company,RiverSource Life Insurance
+350,USA,Wellesley MA,Insurance company,Sun Life U.S.
+351,USA,Windsor CT,Insurance company,Talcott Resolution Life and Annuity Insurance
+352,USA,Windsor Locks CT,Insurance company,Talcott Resolution Life Insurance
+353,USA,Waco TX,Insurance company,Texas Life Insurance Company
+354,USA,Newark NJ,Insurance company,The Prudential Insurance Company of America
+355,USA,Cedar Rapids IA,Insurance company,TransAmerica Life Insurance
+356,USA,Norwalk CT,Insurance company,Wilcac Life Insurance Co.
+357,USA,,Insurance company?,
+358,USA,,Insurance company?,
+359,USA,,Insurance company?,
+360,USA,,Insurance company?,
+361,USA,Galveston TX,Insurance company?,American National Insurance
+362,USA,Hartford CT,Insurance company?,The Hartford
+363,USA,Minneapolis MN,Investigation,PBI Research / The Berwyn Group
+364,USA,New York City NY,Investment Company,Brookfield
+365,USA,Chicago IL,Investment Company,Jones Lang LaSalle
+366,USA,Lincoln MA,Investment Company,Pear Tree Funds
+367,USA,,Investment company?,
+368,USA,,IT company,Appriss
+369,USA,Herndon VA,IT company,GuidePoint Security
+370,USA,Redwood City CA,IT company,Informatica
+371,USA,Herndon VA,IT company,Iron Bow Technologies
+372,USA,Chicago IL,IT company,Technology Services Group LLC
+373,USA,Ashburn VA,IT company,Telos
+374,USA,,IT company?,
+375,USA,,IT service provider,
+376,USA,Mequon WI,IT service provider,ISCorp
+377,USA,Plano TX,IT service provider,NTT Data Services
+378,USA,,IT service provider?,
+379,USA,,IT service provider?,
+380,USA,,Labeling solutions provider?,
+381,USA,Pittsburgh PA,Law firm,K&L Gates
+382,USA,Chicago IL,Law firm,Kirkland & Ellis
+383,USA,New York City NY,Law firm,Proskauer Rose
+384,USA,New York City NY,Law school,New York Law School
+385,USA,Houston TX,Logistics company,Genesis Energy
+386,USA,,Logistics service provider,
+387,USA,Kansas City MO,Logistics solutions provider,Kuecker
+388,USA,,Marketing company,
+389,USA,,Marketing company?,
+390,USA,,Marketing company?,
+391,USA,Richmond VA,Mechanical engineering company,Alfa Laval Inc.
+392,USA,,Mechanical engineering company?,
+393,USA,,Media company?,
+394,USA,Philadelphia PA,Medical association,American Board of Internal Medicine (ABIM)
+395,USA,Dallas TX,Medical center,UT Southwestern Medical Center
+396,USA,,Medical college?,
+397,USA,,Medical equipment supplier,
+398,USA,,Medical school?,
+399,USA,Roswell NM,Military school?,New Mexico Military Institute (NMMI)
+400,USA,,Mining company,
+401,USA,Baton Rouge LA,Motor vehicle authority,Louisiana’s Office of Motor Vehicles (OMV)
+402,USA,Morrisville NC,Network technology provider,Extreme Networks
+403,USA,,Newspaper?,
+404,USA,New York City NY,Nonprofit organization,American Civil Liberties Union Foundation (ACLUF)
+405,USA,Houston TX,Oil,Schlumberger / SLB
+406,USA,,Oil and gas producer?,
+407,USA,Wilmington DE,Online game provider,TSG Interactive US Services Limited / PokerStars
+408,USA,,Payment provider?,
+409,USA,,Payment provider?,
+410,USA,Baltimore MD,Pension Fund,Maryland State Retirement Agency (SRA) / Optional Retirement Program
+411,USA,Atlanta GA,Pension Fund,Teachers Retirement System of Georgia
+412,USA,New York City NY,Pension Fund,"Teachers' Retirement System of the City of New York  (TRS, TRSNYC)"
+413,USA,New York City NY,Pharmaceutical company,Bristol-Myers Squibb
+414,USA,Camp Hill PA,Pharmacy chain,Rite Aid
+415,USA,Redwood City CA,Photo service provider,Shutterfly
+416,USA,,Physicians Association?,
+417,USA,,Physicians Association?,
+418,USA,Carlsbad NM,Radioactive waste repository,Waste Isolation Pilot Plant (WIPP)
+419,USA,Norwalk CT,Reassurance company,Wilton Reassurance Company
+420,USA,Wilton CT,Reassurance company,Wilton Reassurance Life Company of New York
+421,USA,Lewisville NC,Receivables management company,EMS Management & Consultants
+422,USA,,Receivables management company?,
+423,USA,,Receivables management company?,
+424,USA,,Research company?,
+425,USA,Rockville MD,Research Service Provider,
+426,USA,,Restaurant chain?,
+427,USA,Framingham MA,Retail chain,TJX
+428,USA,,Retail chain?,
+429,USA,,Retail chain?,
+430,USA,,Retail chain?,
+431,USA,New York City NY,Retirement fund,Teachers Insurance and Annuity Association of America (TIAA)
+432,USA,Sacramento CA,Retirement plan,California Public Employees' Retirement System CalPERS
+433,USA,Warwick RI,Retirement plan,Employees' Retirement System of Rhode Island
+434,USA,West Sacramento CA,Retirement system,California State Teachers Retirement System (CalSTRS)
+435,USA,Nashville TN,Retirement system,Tennessee Consolidated Retirement System
+436,USA,New York City NY,School district,New York City Public Schools
+437,USA,Irving TX,Service provider,Alliance-One Services
+438,USA,Baltimore MD,Service provider for financial companies,T. Rowe Price Retirement Plan Services
+439,USA,Houston TX,Service provider for financial companies,VALIC Retirement Services Company (VRSCO) / Corebridge
+440,USA,Lincoln NE,Service provider for insurances,Transactions Applications Group (TAG)
+441,USA,,Service provider for the healthcare sector?,
+442,USA,,Service provider?,
+443,USA,,Service provider?,
+444,USA,,Service provider?,
+445,USA,,Service provider?,
+446,USA,,Service provider?,
+447,USA,,Service provider?,
+448,USA,,Service provider?,
+449,USA,,Service provider?,
+450,USA,,Shipping company,
+451,USA,Baltimore MD,Social services,Maryland Department of Human Services
+452,USA,,Software company,
+453,USA,Lincolnshire IL,Software company,Alight
+454,USA,Minneapolis MN,Software company,Datasite
+455,USA,Costa Mesa CA,Software company,Envision Financial Systems
+456,USA,Jacksonville FL,Software company,Fidelity National Information Services (FIS Global)
+457,USA,Tempe AZ,Software company,Gen Digital / Norton LifeLock
+458,USA,Oklahoma City OK,Software company,Paycom Software
+459,USA,Wilmington MA,Software company,Sovos Compliance
+460,USA,Chicago IL,Software company,Vitality Group
+461,USA,Tampa FL,Software company,Willis Towers Watson US / Acclaris
+462,USA,,Software company?,
+463,USA,,Software company?,
+464,USA,,Software company?,
+465,USA,,Software company?,
+466,USA,,Software company?,
+467,USA,,Software company?,
+468,USA,,Software company?,
+469,USA,,Software company?,
+470,USA,,Software company?,
+471,USA,,Software company?,
+472,USA,,Software company?,
+473,USA,,Software company?,
+474,USA,Jefferson City MO,State government,State of Missouri
+475,USA,Charlotte NC,Steel producer,Nucor
+476,USA,,Student registry,National Student Clearinghouse
+477,USA,,Technology,Halma
+478,USA,St. Louis MO,Technology company,Emerson Electric Co.
+479,USA,Morristown NJ,Technology company,Honeywell
+480,USA,,Technology company?,
+481,USA,,Technology company?,
+482,USA,Hanover MD,Telecommunications provider,Ciena
+483,USA,,Temporary employment agency?,
+484,USA,,Timesharing company?,
+485,USA,,Translation company?,
+486,USA,,Travel Management Company?,
+487,USA,,TV station?,
+488,USA,Abilene TX,University,Abilene Christian University (ACU)
+489,USA,Tempe AZ,University,Arizona State University
+490,USA,Russellville AR,University,Arkansas Tech University
+491,USA,Minneapolis MN,University,Augsburg University
+492,USA,Boise ID,University,Boise State University
+493,USA,Boston MA,University,Boston University
+494,USA,Cedarville OH,University,Cedarville University
+495,USA,Orange CA,University,Chapman University
+496,USA,Clemson SC,University,Clemson University
+497,USA,Fort Collins CO,University,Colorado State University
+498,USA,Dickinson ND,University,Dickinson State University (DSU)
+499,USA,Des Moines IA,University,Drake University
+500,USA,Saratoga Springs NY,University,Empire State University
+501,USA,Erie PA,University,Gannon University
+502,USA,University Park IL,University,Governors State University
+503,USA,Des Moines IA,University,Grand View University
+504,USA,Milwaukee WI,University,Herzing University
+505,USA,Pocatello ID,University,Idaho State University
+506,USA,Terre Haute IN,University,Indiana State University
+507,USA,Bloomington IN,University,Indiana University
+508,USA,Baltimore MD,University,Johns Hopkins University
+509,USA,Chicago IL,University,Loyola University Chicago
+510,USA,New York City NY,University,Pace University
+511,USA,Troy NY,University,Rensselaer Polytechnic Institute (RPI)
+512,USA,Honolulu HI,University,Research Corporation of the University of Hawaiʻi
+513,USA,Kansas City MO,University,Rockhurst University?
+514,USA,New Brunswick NJ,University,Rutgers University
+515,USA,Carbondale IL,University,Southern Illinois University
+516,USA,Cedar City UT,University,Southern Utah University
+517,USA,Louisville KY,University,Spalding University
+518,USA,San Antonio TX,University,St. Mary’s University
+519,USA,Fredonia NY,University,State University of New York at Fredonia
+520,USA,Stony Brook NY,University,Stony Brook University
+521,USA,Boston MA,University,Suffolk University
+522,USA,Buffalo NY,University,SUNY Buffalo State University
+523,USA,New Paltz NY,University,SUNY New Palt
+524,USA,New York City NY,University,The City University of New York
+525,USA,Memphis TN,University,The University of Memphis
+526,USA,San Antonio TX,University,Trinity University
+527,USA,Santa Cruz CA,University,UC Santa Cruz
+528,USA,Greensboro NC,University,UNC Greensboro
+529,USA,Buffalo NY,University,University at Buffalo
+530,USA,Los Angeles CA,University,"University of California, Los Angeles (UCLA)"
+531,USA,Edmond OK,University,University of Central Oklahoma
+532,USA,Denver CO,University,University of Colorado
+533,USA,Dayton OH,University,University of Dayton
+534,USA,Atlanta GA,University,University of Georgia
+535,USA,Moscow ID,University,University of Idaho
+536,USA,Ann Arbor MI,University,University of Michigan
+537,USA,Grand Forks ND,University,University of North Dakota (UND)
+538,USA,Greeley CO,University,University of Northern Colorado
+539,USA,Rochester NY,University,University of Rochester
+540,USA,Salt Lake City UT,University,University of Utah
+541,USA,St. George UT,University,Utah Tech University
+542,USA,Vincennes IN,University,Vincennes University
+543,USA,Winston-Salem NC,University,Wake Forest University (WFU)
+544,USA,Pullman WA,University,Washington State University (WSU)
+545,USA,St. Louis MO,University,Webster University
+546,USA,Pomona CA,University,Western University of Health Sciences
+547,USA,Bellingham WA,University,Western Washington University
+548,USA,Williamsburg VA,University,William & Mary
+549,USA,Worcester MA,University,Worcester State University
+550,USA,Cincinnati OH,University,Xavier University
+551,USA,Fairbanks,University system,University of Alaska
+552,USA,,University system,University of Illinois System
+553,USA,Columbia MO,University system,University of Missouri System
+554,USA,Atlanta GA,University system,University System of Georgia
+555,USA,,University?,
+556,USA,Philadelphia PA,University?,Temple University
+557,USA,Newark DE,University?,University of Delaware
+558,USA,Norman OK,University?,University of Oklahoma
+559,USA,,Wholesaler?,
+560,South Africa,Cape Town,Pharmacy chain,Clicks

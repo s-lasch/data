@@ -1,0 +1,137 @@
+Country,City,Industry,Company
+USA,,College,
+USA,Alfred NY,College,Alfred State College of Technology
+USA,Owosso MI,College,Baker College
+USA,Lewiston ME,College,Bates College
+USA,Tacoma WA,College,Bates Technical College
+USA,Houston TX,College,Baylor College of Medicine
+USA,Bellevue WA,College,Bellevue College (BC)
+USA,Bellingham WA,College,Bellingham Technical College
+USA,Greensboro NC,College,Bennett College
+USA,Bismarck ND,College,Bismarck State College (BSC)
+USA,Janesville WI,College,Blackhawk Technical College
+USA,Chadron NE,College,Chadron State College
+USA,Cleveland TN,College,Cleveland State Community College
+USA,Twin Falls ID,College,College of Southern Idaho
+USA,Nampa ID,College,College of Western Idaho
+USA,Dallas TX,College,Criswell College
+USA,Milton MA,College,Curry College
+USA,Bottineau ND,College,Dakota College at Bottineau (DCB)
+USA,Cupertino CA,College,De Anza College
+USA,Lynnwood WA,College,Edmonds College
+USA,Farmingdale NY,College,Farmingdale State College
+USA,Los Altos Hills CA,College,Foothill College
+USA,Auburn WA,College,Green River College
+USA,Clinton NY,College,Hamilton College
+USA,Herkimer NY,College,Herkimer College
+USA,Lake Forest IL,College,Lake Forest College
+USA,Leesburg FL,College,Lake-Sumter State College
+USA,Cass Lake MN,College,Leech Lake Tribal College (LLTC)
+USA,Lewiston ID,College,Lewis-Clark State College
+USA,Williamsport PA,College,Lycoming College
+USA,Madison WI,College,Madison College
+USA,Boston MA,College,Massachusetts College of Pharmacy and Health Sciences (MCPHS)
+USA,Middlebury VT,College,Middlebury College
+USA,Monterey CA,College,Monterey Peninsula College
+USA,Coeur d’Alene ID,College,North Idaho College
+USA,Tonkawa OK,College,Northern Oklahoma College (NOC)
+USA,Bremerton WA,College,Olympic College
+USA,Port Angeles WA,College,Peninsula College
+USA,Peru NE,College,Peru State College
+USA,Quincy MA,College,Quincy College
+USA,St. Petersburg FL,College,St. Petersburg College
+USA,Ewing NJ,College,The College of New Jersey
+USA,Hartford CT,College,Trinity College
+USA,Poughkeepsie NY,College,Vassar College
+USA,Lexington VA,College,Virginia Military Institute (VMI)
+USA,Wayne NE,College,Wayne State College
+USA,Altus OK,College,Western Oklahoma State College
+USA,Wilmington OH,College,Wilmington College (WC)
+USA,Yakima WA,College,Yakima Valley College (YVC)
+USA,Asheville NC,Community college,Asheville-Buncombe Technical Community College
+USA,Great Bend KS,Community college,Barton Community College
+USA,El Dorado KS,Community college,Butler Community College
+USA,McKinney TX,Community college,Collin College
+USA,Everett WA,Community college,Everett Community College
+USA,Garden City KS,Community college,Garden City Community College (GCCC)
+USA,Independence KS,Community college,Independence Community College
+USA,Kansas City KS,Community college,Kansas City Kansas Community College (KCKCC)
+USA,Perkinston MS,Community college,Mississippi Gulf Coast Community College
+USA,Sidney MI,Community college,Montcalm Community College (MCC)
+USA,Norfolk NE,Community college,Northeast Community College
+USA,Pratt KS,Community college,Pratt Community College
+USA,Shoreline WA,Community college,Shoreline Community College (SCC)
+USA,Binghamton NY,Community college,SUNY Broome Community College
+USA,Tulsa OK,Community college,Tulsa Community College
+USA,Jackson TN,Community college?,Jackson State Community College
+USA,Abilene TX,University,Abilene Christian University (ACU)
+USA,Tempe AZ,University,Arizona State University
+USA,Russellville AR,University,Arkansas Tech University
+USA,Minneapolis MN,University,Augsburg University
+USA,Boise ID,University,Boise State University
+USA,Boston MA,University,Boston University
+USA,Cedarville OH,University,Cedarville University
+USA,Orange CA,University,Chapman University
+USA,Clemson SC,University,Clemson University
+USA,Fort Collins CO,University,Colorado State University
+USA,Dickinson ND,University,Dickinson State University (DSU)
+USA,Des Moines IA,University,Drake University
+USA,Saratoga Springs NY,University,Empire State University
+USA,Erie PA,University,Gannon University
+USA,University Park IL,University,Governors State University
+USA,Des Moines IA,University,Grand View University
+USA,Milwaukee WI,University,Herzing University
+USA,Pocatello ID,University,Idaho State University
+USA,Terre Haute IN,University,Indiana State University
+USA,Bloomington IN,University,Indiana University
+USA,Baltimore MD,University,Johns Hopkins University
+USA,Chicago IL,University,Loyola University Chicago
+USA,New York City NY,University,Pace University
+USA,Troy NY,University,Rensselaer Polytechnic Institute (RPI)
+USA,Honolulu HI,University,Research Corporation of the University of Hawaiʻi
+USA,Kansas City MO,University,Rockhurst University?
+USA,New Brunswick NJ,University,Rutgers University
+USA,Carbondale IL,University,Southern Illinois University
+USA,Cedar City UT,University,Southern Utah University
+USA,Louisville KY,University,Spalding University
+USA,San Antonio TX,University,St. Mary’s University
+USA,Fredonia NY,University,State University of New York at Fredonia
+USA,Stony Brook NY,University,Stony Brook University
+USA,Boston MA,University,Suffolk University
+USA,Buffalo NY,University,SUNY Buffalo State University
+USA,New Paltz NY,University,SUNY New Palt
+USA,New York City NY,University,The City University of New York
+USA,Memphis TN,University,The University of Memphis
+USA,San Antonio TX,University,Trinity University
+USA,Santa Cruz CA,University,UC Santa Cruz
+USA,Greensboro NC,University,UNC Greensboro
+USA,Buffalo NY,University,University at Buffalo
+USA,Los Angeles CA,University,"University of California, Los Angeles (UCLA)"
+USA,Edmond OK,University,University of Central Oklahoma
+USA,Denver CO,University,University of Colorado
+USA,Dayton OH,University,University of Dayton
+USA,Atlanta GA,University,University of Georgia
+USA,Moscow ID,University,University of Idaho
+USA,Ann Arbor MI,University,University of Michigan
+USA,Grand Forks ND,University,University of North Dakota (UND)
+USA,Greeley CO,University,University of Northern Colorado
+USA,Rochester NY,University,University of Rochester
+USA,Salt Lake City UT,University,University of Utah
+USA,St. George UT,University,Utah Tech University
+USA,Vincennes IN,University,Vincennes University
+USA,Winston-Salem NC,University,Wake Forest University (WFU)
+USA,Pullman WA,University,Washington State University (WSU)
+USA,St. Louis MO,University,Webster University
+USA,Pomona CA,University,Western University of Health Sciences
+USA,Bellingham WA,University,Western Washington University
+USA,Williamsburg VA,University,William & Mary
+USA,Worcester MA,University,Worcester State University
+USA,Cincinnati OH,University,Xavier University
+USA,Fairbanks,University system,University of Alaska
+USA,,University system,University of Illinois System
+USA,Columbia MO,University system,University of Missouri System
+USA,Atlanta GA,University system,University System of Georgia
+USA,,University?,
+USA,Philadelphia PA,University?,Temple University
+USA,Newark DE,University?,University of Delaware
+USA,Norman OK,University?,University of Oklahoma

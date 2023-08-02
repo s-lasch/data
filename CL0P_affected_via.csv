@@ -1,0 +1,117 @@
+country,organization_for,via,from,to
+Austria,Bank99,,1400,1400
+Canada,Elections Nova Scotia,Nova Scotia,26000,26000
+Canada,Halifax Regional Municipality parking tickets,Nova Scotia,1085,1085
+Canada,Halifax Water,Nova Scotia,25000,25000
+Canada,IWK Health Centre,Nova Scotia,100,100
+Canada,Nova Scotia Department of Community Services clients,Nova Scotia,54,54
+Canada,Nova Scotia Department of Health and Wellness [Client registry],Nova Scotia,1330,1330
+Canada,Nova Scotia Department of Health and Wellness [Provider registry],Nova Scotia,150,150
+Canada,"Nova Scotia Department of Labour, Skills and Immigration",Nova Scotia,5,5
+Canada,Nova Scotia Health,Nova Scotia,3800,3800
+Canada,Nova Scotia Newborns,Nova Scotia,41,41
+Canada,Nova Scotia Pension plan,Nova Scotia,1400,1400
+Canada,Nova Scotia Prescription Monitoring Program,Nova Scotia,480,480
+Canada,Nova Scotia Prescription Monitoring Program,Nova Scotia,60,60
+Canada,Nova Scotia Provincial adult correctional facilities,Nova Scotia,500,500
+Canada,"Nova Scotia Regional centres for education, Conseil scolaire acadien provincial",Nova Scotia,13000,13000
+Canada,Nova Scotia Summary offence tickets,Nova Scotia,54,54
+Canada,Nova Scotia Teachers,Nova Scotia,55000,55000
+Canada,Nova Scotia Tourist Accommodations Registry,Nova Scotia,5000,5000
+Canada,Region of Queens Municipality,Nova Scotia,17500,17500
+Canada,The Independent Order of Foresters [Delaware],,1539,1539
+Germany,vkb / Bayern-Versicherung,,17900,17900
+Ireland,Dublin Airport,Aon,2000,2000
+UK,Accelya Global Ltd [Massachusetts],Alight,3,3
+UK,Ofcom,,412,412
+UK,Transport for London,,13000,13000
+USA,1st Source Bank,directly,450000,450000
+USA,Allegheny County,directly,967690,967690
+USA,Allegiant Air,directly,1405,1405
+USA,AMC Theatres / American Multi-Cinema [Massachusetts],,127,127
+USA,AMC Theatres / American Multi-Cinema [Texas],,568,568
+USA,American Board of Internal Medicine,directly,13361,13361
+USA,American Civil Liberties Union Foundation,TIAA Kaspick / PBI,575,575
+USA,Appris,Vitality,705,705
+USA,AptaGroup,Vitality,1069,1069
+USA,Athene Annuity and Life Company,PBI,70142,70142
+USA,Aurora National Life Assurance,Alliance-One,48457,48457
+USA,Baylor College of Medicine,Vitality,504,504
+USA,bioMerieux,Vitality,10244,10244
+USA,Brighthouse Life Insurance [Delaware],,151,151
+USA,Brookfield,Vitality,4392,4392
+USA,CalPERS California Public Employees Retirement System's,PBI,769000,769000
+USA,CalSTRS,,415000,415000
+USA,City National Bank of Florida,directly,36306,36306
+USA,Clearwater Credit Union,undisclosed vendor,25660,25660
+USA,Concordia,Vitality,2071,2071
+USA,Corebridge Financial / VALIC Retirement Services Company,PBI,798000,798000
+USA,Datasite,directly,827,827
+USA,EBS Services,PBI,6998,6998
+USA,Employees’ Retirement System of Rhode Island,TIAA / PBI,13000,13000
+USA,F&G Annuities & Life / Fidelity & Guaranty Life Insurance Company,PBI,873000,873000
+USA,Fidelity Investments,PBI,371359,371359
+USA,First Merchants Bank [Massachusetts],,83,83
+USA,First Merchants Bank [Texas],undisclosed vendor,827,827
+USA,Franklin Mint Federal Credit Union,directly,140963,140963
+USA,Genesis Energy,directly,8140,8140
+USA,Genworth,PBI,2500000,2700000
+USA,GuidePoint,Vitality,843,843
+USA,Halma,undisclosed vendor,7105,7105
+USA,Harris Health System [Texas],,229195,229195
+USA,Highmark Blue Cross Blue Shield Delaware,,4128,4128
+USA,Hillsborough County,directly,70636,70636
+USA,Honeywell,,1207,1207
+USA,Humana [Delaware],,1288,1288
+USA,Jackson National Life Insurance,PBI,700000,800000
+USA,"Johns Hopkins University / Health System, Kennedy Krieger Institute",directly,363885,363885
+USA,Kuecker Pulse Integration,Vitality,539,539
+USA,Lombard International Life Assurance Company [Massachusetts],PBI,19,19
+USA,Louisiana's Office of Motor Vehicles,,4600000,6000000
+USA,"Lumico Life Insurance Company, Elips Life Insurance Company [Delaware]",NTT / PBI,1386,1386
+USA,Massachusetts Mutual Life Company,Fidelity / PBI,242,242
+USA,"Maximus, Inc",directly,8000000,11000000
+USA,Milliman Solutions LLC,PBI,1280823,1280823
+USA,Minnesota Department of Education [Foster care],directly,95000,95000
+USA,Minnesota Department of Education [Hennepin Technical College],directly,29,29
+USA,Minnesota Department of Education [Minneapolis Public Schools],directly,5,5
+USA,Minnesota Department of Education [Perham School District],directly,124,124
+USA,New York City Department of Education,directly?,45000,45000
+USA,Nucor,directly,8824,8824
+USA,Oregon Driver & Motor Vehicle Services DMV,directly,3500000,3500000
+USA,Paycom Payroll,directly,7449,7449
+USA,Pear Tree Advisors,Envision/ISCorp,6792,6792
+USA,PlainsCapital Bank / Hilltop Holdings [Massachusetts],undisclosed vendor,84,84
+USA,PlainsCapital Bank / Hilltop Holdings [Texas],undisclosed vendor,172852,172852
+USA,Prudential Insurance Company of America,PBI,320840,320840
+USA,Quorum Federal Credit Union,directly,17054,17054
+USA,Realm IDX / Ambry,Vitality,818,818
+USA,Rhode Island Government,TIAA / PBI,1500,1500
+USA,Rite Aid,directly,24400,24400
+USA,RiverSource Life Insurance Co. [Delaware],,459,459
+USA,Rockland Trust,undisclosed vendor,11661,11661
+USA,Sound Community Bank,undisclosed vendor,14686,14686
+USA,Sovos Compliance,directly,18513,18513
+USA,State of Illinois,,390000,390000
+USA,T. Rowe Price Retirement Plan Services,PBI,463,463
+USA,Talcott Resolution Life Insurance Company,PBI,316041,557741
+USA,Teachers' Retirement System of the City of New York,PBI,93298,93298
+USA,Technology Services Group,Vitality,4392,4392
+USA,Tennessee Consolidated Retirement System TCRS,PBI,171836,171836
+USA,TIAA Kaspick,PBI,27946,27946
+USA,TIAA Teachers Insurance and Annuity Association of America,PBI,2630717,2630717
+USA,TransAmerica Life Insurance [Delaware],,618,618
+USA,TransAmerica Life Insurance [Texas],,18601,18601
+USA,TSG Interactive US Services Limited / PokerStars,directly,110291,110291
+USA,U.S. Department of Health and Human Services,,100000,100000
+USA,Union Bank and Trust Company,directly,204291,204291
+USA,UnitedHealthcare Student Resources [Delaware],,2080,2080
+USA,UnitedHealthcare Student Resources [Massachusetts],,14899,14899
+USA,UnitedHealthcare Student Resources [Texas],,77536,77536
+USA,University of Rochester,directly,88025,88025
+USA,UT Southwestern Medical Center,,98437,98437
+USA,Valley Bank [Massachusetts],FIS,338,338
+USA,Valley Bank [Texas],,351,351
+USA,Westat,directly,7954,7954
+USA,Willis Towers Watson US / Acclaris [Massachusetts],PBI,97,97
+USA,Wilton Reassurance Company,PBI,1433939,1482490
